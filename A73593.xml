@@ -1,0 +1,1738 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the doctrine of the sabbaoth Briefly, yet fully and plainely set forth; together with the vses of the same doctrine; with the vsuall obiections and answers therevnto. All which for the helpe of memorie, are drawne into sundry chapters.</title>
+            <author>Burton, William, d. 1616.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1606</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73593</idno>
+            <idno type="STC">STC 4165a.5</idno>
+            <idno type="STC">ESTC S124659</idno>
+            <idno type="EEBO-CITATION">99898980</idno>
+            <idno type="PROQUEST">99898980</idno>
+            <idno type="VID">150817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150817)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1982:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the doctrine of the sabbaoth Briefly, yet fully and plainely set forth; together with the vses of the same doctrine; with the vsuall obiections and answers therevnto. All which for the helpe of memorie, are drawne into sundry chapters.</title>
+                  <author>Burton, William, d. 1616.</author>
+               </titleStmt>
+               <extent>[12], 116 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by V. S[immes]. for Nicholas Ling,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The dedication is signed: W. Burton.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Caption title on p. 1: Of the manner and matter of the fourth commaundement in generall.</note>
+                  <note>Signatures: A⁶ B-H I² .</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dogma --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+               <term>Sabbath --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150817:1" rendition="simple:additions"/>
+            <pb facs="tcp:150817:1"/>
+            <pb facs="tcp:150817:2" rendition="simple:additions"/>
+            <pb facs="tcp:150817:2" rendition="simple:additions"/>
+            <p>An Abſtract of the Doctrine <hi>of the Sabbaoth.</hi>
+            </p>
+            <p>Briefly, yet fully and plainely ſet forth; <hi>Together with the vſes of the ſame Doc<g ref="char:EOLhyphen"/>trine;</hi> with the vſuall Obiecti<g ref="char:EOLhyphen"/>ons <hi>and Anſwers there<g ref="char:EOLhyphen"/>vnto.</hi>
+            </p>
+            <p>
+               <hi>All which for the helpe of Memorie, are</hi> drawne into ſundry chapters.</p>
+            <p>AT LONDON, Printed by <hi>
+                  <g ref="char:V">Ʋ</g>. S.</hi> for <hi>Nicholas Ling.</hi> 1606.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150817:3"/>
+            <pb facs="tcp:150817:3"/>
+            <head>To the right Worſhipfull and religious Knight, Sir <hi>Francis Knolys, one of the Lievtenants, and Iuſtices for</hi> the Peace in Barkeſhire; and to the ver<g ref="char:EOLhyphen"/>tuous <hi>Lady his wife;</hi> W. B. <hi>wiſheth in<g ref="char:EOLhyphen"/>creaſe</hi> of Gods favour in this <hi>life, and full fruition of the</hi> ſame, in the life to come.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Worſhipfull, having had ſo long experience of both your ſincere affections to true reli<g ref="char:EOLhyphen"/>gion, and your religious diſpo<g ref="char:EOLhyphen"/>ſitions, to the exerciſes of Gods worſhip, both publikely in the holy aſſemblies, and pri<g ref="char:EOLhyphen"/>vately in your family, I knew not to whoſe Pa<g ref="char:EOLhyphen"/>tronage I might better commit this ſhort Trea<g ref="char:EOLhyphen"/>tiſe of the right obſervation of the Lords Sab<g ref="char:EOLhyphen"/>baoth, than vnto you both. It is for matter, ſub<g ref="char:EOLhyphen"/>ſtantiall and ſound; for memory, ſhort and me<g ref="char:EOLhyphen"/>thodicall; for vnderſtanding, perſpicuous, and plaine; for vſe, moſt neceſſary and profitable; and
+<pb facs="tcp:150817:4"/>in all, like vnto the meate that <hi>Iacob</hi> provided for his father <hi>Iſaac,</hi> which was ſo ſavory, that his fa<g ref="char:EOLhyphen"/>ther both loved it after a more ſpeciall manner than he did other meates, and alſo bleſſed him that brought it vnto him: So will this doctrine of the Sabbaoth be vnto the religious taſte of your inward man; ſo ſavory, yea, ſo ſavoring of the ſpi<g ref="char:EOLhyphen"/>rit of God, that I am aſſured your ſoules will de<g ref="char:EOLhyphen"/>light in it, and bleſſe God for them that have pre<g ref="char:EOLhyphen"/>pared it for you. As for my part, I have but glea<g ref="char:EOLhyphen"/>ned in the fieldes of other godly and learned men, who have more copiouſly laboured in this argument: neither is this my Abſtract, any other than the fragments of their ſumptuous feaſts: yet, through the bleſſing of God, it may proove like the remainder of the five Loaves and two Fi<g ref="char:EOLhyphen"/>ſhes in the Goſpel, which being reſerved at Chriſts appointment, to the glorie of God, filled twelve baskets full; that is, were aboundantly bleſſed to a greater quantitie than the former. And as for your parts, (without flattery be it ſpo<g ref="char:EOLhyphen"/>ken) ſeeing God hath given you both the hearts to honour him, by a more carefull and conſtant obſervation of his Sabbaoths, than many other; (yea, than any other I might ſay) of any note a<g ref="char:EOLhyphen"/>mongſt vs; I ſee no reaſon, but notice ſhould be taken thereof, that as God by you is glorified, and his Church by your good examples edified: ſo others alſo, hearing of the ſame, may, by your examples, be ſtirred vp to the like zeale, and to give you that commendation, that is due to thoſe that love the truth. For him that honoureth me, (ſaith God) I will honour. And ſith God hath awarded you Honour, for honouring him, by
+<pb facs="tcp:150817:4"/>walking in the religious ſteppes of your honou<g ref="char:EOLhyphen"/>rable father: How can I deny it you, or others en<g ref="char:EOLhyphen"/>vie you for it? And as the bleſſed Apoſtle tells <hi>Philemon:</hi> ſo I may (not vnfitly vſurping his words) ſay vnto you; That both thanks and prayers, are, and ſhall be rendred vnto God for you, by many which heare of your love and faith, which you have towards the Lord Ieſus, and towards all his Saints; that ſo the fellowſhip of your faith, may be made fruitfull, and that whatſoever good thing is in you, through Chriſt Ieſus, may be knowne; for we, yea all we in this populous Towne of <hi>Reading,</hi> and the Country a<g ref="char:EOLhyphen"/>bout, which vnfainedly feare the Lord, and de<g ref="char:EOLhyphen"/>ſire in truth of heart, to make ſtreight ſteppes to godlineſſe, and to profit in his waies, have great ioy and conſolation in your love, to the Goſpel of Chriſt; becauſe by you alſo the Saints hearts are not alittle comforted. It is pittifull to ſee in divers places, how many which are advanced by the bountifull providence of God, vnto places of dignitie and honour, in the Common-wealth of our Engliſh <hi>Iſrael,</hi> doe beare themſelves in hand, that having beene at the Houſe of God, to heare common Prayer, or a Sermon, are for this their eare-ſervice, and lip-labour, notable Sanctifiers of the Sabbaoth. And whereas they ought to ſan<g ref="char:EOLhyphen"/>ctifie it alſo at home, by conference with their fa<g ref="char:EOLhyphen"/>milies, prayer, and meditation, ſinging of pſalmes, and other holy duties, both of pietie, and chari<g ref="char:EOLhyphen"/>tie; yea, and to carry themſelves in all grave and ſober manner, as having authoritie in their hands to terrifie vanitie and profaneneſſe, and not to countenance them, do ſuffer themſelves to
+<pb facs="tcp:150817:5"/>be made companions to all vaine men, a thing which holy <hi>David</hi> deteſted:
+<note n="*" place="margin">Pſal. 15. Pſal. 26. Pſal. 101.</note> and like <hi>Eſopa</hi> blocke, to lie drenched in the love of vaine ſports, and ſmoakie recreations, (vexations indeede to a ſanctified heart) with the loſſe of pretious Time, and checke of their owne conſcience. Whereby it oftentimes commeth to paſſe, that their baſe de<g ref="char:EOLhyphen"/>ſire of winning other mens mony, is recompen<g ref="char:EOLhyphen"/>ced with the loſſe of their owne ſubſtance, to ve<g ref="char:EOLhyphen"/>rifie Gods Proverb by <hi>Solomon;</hi>
+               <note place="margin">Pro. 21.17</note> He that loveth paſtime, ſhall ſurely be a poore man: their hearing of Sermons is alſo accurſed, their ſoules grow barren in holy knowledge, and heavenly wiſe<g ref="char:EOLhyphen"/>dome; and when time ſerveth, they have not ſo much as one arrow in their quiver, to ſhoote at a treacherous Papiſt, or a wicked Atheiſt, or any other hereticall depraver of the Truth, which are too rife in every corner, with popiſh perſwaſions, and diveliſh ſophiſtications, watching where men are weake, or faint-hearted to reſiſt, there to breake in, and make ſpoile of all: or if they have a peece of any argument in ſtore, to give an aſſault withall, or can make ſome anſwer to repell the ill-affected in religion: yet, through their want of practiſe, or through their inexpertneſſe in the word of Truth, either they have no heart to in<g ref="char:EOLhyphen"/>counter with them, or elſe they want ſtrength to continue the conflict; or for want of holie wiſe<g ref="char:EOLhyphen"/>dome, they vtterly ſhame themſelves, and the Lords cauſe in the handling. But you (right Wor<g ref="char:EOLhyphen"/>ſhipfull) have not ſo learned Ieſus Chriſt. And if I have found favour in your eyes, (as I am ſure in times paſt, with thanks I acknowledge, that both I, and my poore miniſtry have) let me be bold in
+<pb facs="tcp:150817:5"/>the Lord to exhort you, ſtill to continue conſtant in your holy courſes, for the honouring of God in the ſanctification of his Sabbaoths, and by your godly examples and zealous perſwaſions, to be a meanes to ſtirre vp others, that lie ſecurely a<g ref="char:EOLhyphen"/>ſleepe, in the opinion they have of an outward formality in religion, and to draw on others a<g ref="char:EOLhyphen"/>mongſt vs, that be Maſters in <hi>Iſrael,</hi> yet too back<g ref="char:EOLhyphen"/>ward in theſe holy duties, and are in danger of loſing their firſt love to holy religion, if ever they had any; whereby the fame of our Towne begin<g ref="char:EOLhyphen"/>neth to be at a low ebbe, in compariſon of that it hath beene; yea, we begin to be like the Church of <hi>Sardi,</hi> that had a name of living to God, but in<g ref="char:EOLhyphen"/>deede was dead:
+<note place="margin">Revel. 3.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> many keeping the Sabbaoth to the halves, in the fore noone at the Temple, in the after-noone at home; in the fore-noone prayers, in the after-noone playes, &amp;c. reſembling thoſe monſtrous pictures, which being looked vpon one way, ſhew very beautifull faces of men and wo<g ref="char:EOLhyphen"/>men; but another way, bruit beaſts, and vglie birds. I write not this as doubting of your con<g ref="char:EOLhyphen"/>ſtancies, but becauſe I have learned of Saint <hi>Pe<g ref="char:EOLhyphen"/>ter;</hi>
+               <note place="margin">2. Pet. 1.12.13.</note> That a ſound faith hath neede of a ſtreng<g ref="char:EOLhyphen"/>thening, a warie heart of a warning, and a pure minde of a ſtirring vp: and therefore I vſe this boldneſſe in the Lord towards you. Wherefore, though you ſee ſome amongſt vs with the Rube<g ref="char:EOLhyphen"/>nites, abide like earth-wormes,
+<note place="margin">Iud. 5.16, 17, 18.</note> amongſt their ſheepe-folds, and ſome with <hi>Gilead,</hi> lie hovering beyond <hi>Iordan,</hi> and looking which way the world will ſway: and others with <hi>Dan,</hi> lurking coward<g ref="char:EOLhyphen"/>ly in ſhips prepared for flight: and others with <hi>Aſhur,</hi> lie skulking on the ſea ſhore, expecting a
+<pb facs="tcp:150817:6"/>day, and ready to entertaine ſome forraine arri<g ref="char:EOLhyphen"/>vall of Italienated wilde Boares, to roote vp the Lords Vineyard: yet I doubt not, (and to that end my prayer ſhall be) that you may with wor<g ref="char:EOLhyphen"/>thy <hi>Zebulon</hi> and <hi>Nephthalie,</hi> be (as you have been) moſt forward in the high places of the Lords field, and that all of vs may ieopard our lives in the defence of the Lordes quarrell, againſt the Cananites. You, even the Kings of <hi>Canaan:</hi> the God of heaven give you both increaſe of his holy ſpirit, and proſper you in all well doing, and ſan<g ref="char:EOLhyphen"/>ctifie all our hearts, that we may ſo ſhew forth the power of his Goſpel, in our holy converſation, that the adverſarie may be aſhamed of his gain<g ref="char:EOLhyphen"/>ſaying, and depraving humour, and we may have comfort and boldneſſe in the day of the Lord, which approacheth apace, and ſlacketh not.</p>
+            <closer>
+               <signed>
+                  <hi>Your Worſhips in all good affection,</hi> William Burton.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:150817:6"/>
+            <head>To the Chriſtian <hi>Reader.</hi>
+            </head>
+            <p>COnſidering that the profanation of the Lordes holy Sabbaoth is one of the generall and capitall ſinnes of the lande, which not a little provoketh the high diſplea<g ref="char:EOLhyphen"/>ſure, and deepe vengeance of God againſt our whole Nation, for that whereſoever it goeth, it is accompanied with the contempt of all re<g ref="char:EOLhyphen"/>ligion, pietie, and good order, to the letting in of Poperie, Atheiſme, impietie, and all iniqui<g ref="char:EOLhyphen"/>tie. I doubt not (good Reader) but thou wilt eaſily confeſſe, that it is high time for euerie man to put to his helping hand for the remoo<g ref="char:EOLhyphen"/>ving, or at leaſt, for the abating (if it may be) of this high contempt of the Lords day. And to vſe all good meanes, whereby thoſe which yet ſinne of ignorance, and weakeneſſe, rather then of any ſetled wilfulneſſe, may be brought in ſome meaſure to the ſound knowledge, and holy obedience of this moſt glorious comman<g ref="char:EOLhyphen"/>dement of God. That ſo (at the leaſt) for their ſakes ſo fearing God, and in his feare drawing neare vnto his true worſhip (which yet are likely, no doubt, to proue the ſmalleſt number) the Lord may in his mercie ſpare the whole land, as he ſpared ripe ſinning Sodome, for iuſt
+<pb facs="tcp:150817:7"/>
+               <hi>Lots</hi> ſake. To which end and purpoſe, it hath pleaſed God to ſtirre vp many of his ſervants, both godly and learned, to trauel, both by ſpea<g ref="char:EOLhyphen"/>king and writing in the former argument. And among the reſt,
+<note place="margin">D Bound. Ma. Gren<g ref="char:EOLhyphen"/>ham. Ma. Widly.</note> ſome have laboured as I ſuppoſe (without preiudice to any be it ſpoken) more abundantly then the reſt, and that both learnedly and godly, having ſoundly prooved the doctrine by authoritie of the worde, and conſent of the best Writers, and conſent both of antiquitie, and of later yeares, as alſo vrged the ſame by many religious and pa<g ref="char:EOLhyphen"/>theticall perſwaſions vnto the conſcience. For whoſe painfull trauels I muſt acknow<g ref="char:EOLhyphen"/>ledge my ſelfe (the leaſt of all) amongst many other moſt highly bound to give God praiſe. But ſuch is the corruption of our nature in generall, (but eſpecially of the ſluggard, to whom a few lines more then ordinarie in ſpi<g ref="char:EOLhyphen"/>rituall matters, ſeeme to be ſo many Lions ly<g ref="char:EOLhyphen"/>ing in his way to keepe him from reading the ſame) that few of many will hardly take the paines to travaile to the ende of any learned diſcourſe, though it be likely to prove never ſo profitable vnto them at their iourneyes end And many againe are induced rather to read ſuch things as are ſhort and compendious, like
+<pb facs="tcp:150817:7"/>men that love to goe the neareſt way home with a light burthen. In which reſpects I have preſumed to offer vnto thee this ſhort a<g ref="char:EOLhyphen"/>bridgement of the doctrine of the Sabbaoth: partly to thruſt on the ſluggard, and partly to toll on the wearie and faint, and partly to helpe the memories of thoſe that have read and forgot againe: but chiefly to ſtirre vp them with my ſelfe to a more carefull and conſcio<g ref="char:EOLhyphen"/>nable practiſe of the ſame. Herein know that I have but imitated thoſe travellers, who ha<g ref="char:EOLhyphen"/>ving beene in other Countreys, have made a briefe collection of ſuch things as they have obſerved, and deemed memorable: telling the world of many a faire Citie which they never builded, of many a goodly Orchard which they never planted, of many ſtately Monuments which they never erected, and of many curi<g ref="char:EOLhyphen"/>ous workes which they never invented, &amp;c. And all this yet, not without ſome comfort to themſelves, and ſome delight to others, &amp; not without ſome provocation perhaps vnto ſome to take the like, or greater iourneys to their further benefite and delight: having learned, that if a man doe but even ſpeake the ſame things againe, which have beene ſpoken be<g ref="char:EOLhyphen"/>fore, it is not altogether a fruitles labour. If I
+<pb facs="tcp:150817:8"/>have added of mine owne (as in ſome places I have) though verie little, and followed mine owne Method and order in the contriving of this poore ahridgement. I have not done it without the approbation of many godly and learned, both in the miniſterie, and otherwiſe, (whoſe iudgement I muſt, and doe euery way preferre before my owne) who having peruſed the ſame, have not onely affoorded thereunto thear good approbation, but have alſo earneſt<g ref="char:EOLhyphen"/>ly intreated me (many of them) and encoura<g ref="char:EOLhyphen"/>ged me all of them, to publiſh the ſame. What<g ref="char:EOLhyphen"/>ſoever it be, I do humbly ſubmit both my ſelfe and it to the charitable &amp; Chriſtian cenſures of the reverend Fathers and Brethren of the Church of Chriſt, and to the gracious bleſſing of the Lord our heauenly father, who wil wit<g ref="char:EOLhyphen"/>neſſe with me againſt all that ſhall be contra<g ref="char:EOLhyphen"/>rie minded, that my principall care and deſire herein hath beene, and is, the advancement of his own glorie, in the edifying of his church: but eſpecially of that people, and congregation, amongeſt whom I have (through his merciful providence) my ſtanding and abiding. Make thy beſt vſe of it, &amp; aſſiſt me with thy praiers:</p>
+            <closer>
+               <signed>Thine in Chriſt, W. Buiton.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <div n="1" type="chapter">
+               <pb facs="tcp:150817:8"/>
+               <head>
+                  <g ref="char:leaf">❧</g> Of the manner and <hi>matter of the fourth</hi> Com<g ref="char:EOLhyphen"/>maundement in ge<g ref="char:EOLhyphen"/>nerall.</head>
+               <head type="sub">CHAP. I.</head>
+               <p>THe fourth Commandement laieth forth the doctrine of the Sabbaoth, and is dulie to be conſidered of everie one: Firſt, for the manner of commanding: Secondly, for the matter commaun<g ref="char:EOLhyphen"/>ded.</p>
+               <p>For the manner of commanding, this Commandement differeth from the o<g ref="char:EOLhyphen"/>ther Commandements three waies; and yet every way it is moſt forcible to per<g ref="char:EOLhyphen"/>ſwade and moove the conſcience. For,
+<pb n="2" facs="tcp:150817:9"/>
+                  <list>
+                     <item>1 The Lord ſaith heere: <hi>Remember, &amp;c.</hi> that is, thinke of it before hand: to ſhew, that except it be thought vpon before it come, for the ordering of our buſineſſe ac<g ref="char:EOLhyphen"/>cordingly, we cannot keepe it as it ſhould be kept.</item>
+                     <item>2 Thoſe things which in the other Commandements are vnderſtood, are expreſſed in this. For firſt, in this Commaundement, both the good is expreſly commanded, and the evill expreſly forbidden: in the other Commandement it is not ſo. Secondly, heere we are expreſly charged with our ſelves, and thoſe that belong vnto vs: in the reſt it is not ſo.</item>
+                     <item>3 Heere be more reaſons vſed, than in al the reſt: &amp; they be in number 3.
+<list>
+                           <item>1 The firſt is drawne from the e<g ref="char:EOLhyphen"/>quitie of the thing commaun<g ref="char:EOLhyphen"/>ded: for ſeeing as God giveth vs ſixe daies for our own buſineſſe, reaſon requireth, that we ſhould keepe the ſeventh day for his Maieſties vſe.</item>
+                           <pb n="3" facs="tcp:150817:9"/>
+                           <item>2 The ſecond is drawne from Gods example: that we may be like our Creator, in that point of reſting the ſeventh day.</item>
+                           <item>3 The third reaſon is taken from the end of that bleſsing which the Lord beſtowed vpon that day: for he bleſſed this day with a ſpetiall bleſsing, to this end onely, (<hi>viz.</hi> to his ſervice,) and to no other.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>From this multiplicitie of reaſons heere vſed, we may gather foure things.</p>
+               <list>
+                  <item>1 The greatneſſe of Gods good<g ref="char:EOLhyphen"/>neſſe, who perſwadeth vs by rea<g ref="char:EOLhyphen"/>ſons, when he might compell vs by his onely and abſolute authority.</item>
+                  <item>2 The excellency of that dutie which is heere ſo many waies en<g ref="char:EOLhyphen"/>forced.</item>
+                  <item>3 The neceſsitie of it.</item>
+                  <item>4 How rebellious our nature is, (e<g ref="char:EOLhyphen"/>ſpecially againſt this Commande<g ref="char:EOLhyphen"/>ment) that muſt be drawn to the li<g ref="char:EOLhyphen"/>king of it by ſo many reaſons.</item>
+               </list>
+               <p>So much for the manner of Comman<g ref="char:EOLhyphen"/>ding. Now of the matter that is Com<g ref="char:EOLhyphen"/>manded:
+<pb n="4" facs="tcp:150817:10"/>and that is double.</p>
+               <list>
+                  <item>1 That a day of reſt muſt be kept.</item>
+                  <item>2 That this reſt muſt be ſanctified.</item>
+               </list>
+               <p>Concerning the day of reſt, foure points are to be conſidered.</p>
+               <list>
+                  <item>1 That a Sabbaoth day, or day of reſt, muſt of neceſsitie be continu<g ref="char:EOLhyphen"/>ed in the Church of God, vnto the end of the world. See chap. 2.</item>
+                  <item>2 That this reſt muſt be vppon one certaine day: and what day that muſt be. See chap. 3.</item>
+                  <item>3 What manner of reſt it is that muſt be kept. See chap. 4. And what workes may be done that day, See chap. 5.</item>
+                  <item>4 To whom the obſervation of this reſt is enioyned. See chap. 6. With obiects aunſwered. chap. 7.</item>
+               </list>
+               <p>Concerning the ſanctifying of this reſt, foure points are to be conſidered of.</p>
+               <list>
+                  <item>1 What is meant by ſanctifying the Sabbaoth day. See chap. 8.</item>
+                  <item>2 By what meanes the Sabbaoth day muſt be ſanctified, which muſt be by performing of duties.</item>
+               </list>
+               <pb n="5" facs="tcp:150817:10"/>
+               <list>
+                  <item>1 Publike, and they be of two ſorts.
+<list>
+                        <item>1 Of Piety. See cha. 9.</item>
+                        <item>2 Of Pitty. See cha. 10.</item>
+                     </list>
+                  </item>
+                  <item>2 Private, and thoſe are alſo two fold.
+<list>
+                        <item>1 More private, &amp; ſuch as are to be done by every man alone. See chap. 11.</item>
+                        <item>2 Leſſe private, or ſuch as are to be performed with others. See cha. 12. and 13.</item>
+                     </list>
+                  </item>
+                  <item>3 By whom thoſe meanes muſt be put in practiſe, whereby the Sab<g ref="char:EOLhyphen"/>baoth is to be ſanctified See chap. 14.</item>
+                  <item>4 What obiections commonly are made againſt the ſanctification of the Sabbaoth, or any part of the doctrine thereof. See chap. 15.</item>
+               </list>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="6" facs="tcp:150817:11"/>
+               <head>Of the Continuance of a Sabbaoth.</head>
+               <head type="sub">CHAP. II.</head>
+               <p>THe Continuance of a Sabbaoth muſt be graunted, and not bee doubted of, or elſe in vaine doe we ex<g ref="char:EOLhyphen"/>hort to the keeping holy of a Sabbaoth. Now the Continuance of a Sabbaoth, or day of Reſt, may be prooved two waies.</p>
+               <list>
+                  <item>1 By the antiquity of the Sabbaoth.</item>
+                  <item>2 By the ends, for which it was firſt ordained.</item>
+               </list>
+               <p>The antiquity of the Sabbaoth day, is very great: for,
+<list>
+                     <item>1 So ſoone as there was a ſeventh day created, ſo ſoone was it made a Sabbaoth day, and ſanctified to <hi rend="sup">a</hi> holy vſes.</item>
+                     <item>2 From the firſt inſtitution of it, it was kept among the Hebrewes by tradition, vntill the <hi rend="sup">b</hi> Law was gi<g ref="char:EOLhyphen"/>ven.</item>
+                     <pb n="7" facs="tcp:150817:11"/>
+                     <item>3 From the law, vntill Chriſts time, it was kept by the Iews, according to the fourth Commaundement of the morall law.</item>
+                     <item>4 Our Saviour Chriſt, at his com<g ref="char:EOLhyphen"/>ming, by his practiſe, did eſtabliſh it, <hi rend="sup">c</hi> and his Apoſtles after <hi rend="sup">d</hi> him.</item>
+                     <item>5 The chriſtian Churches ever ſince the Apoſtles time, have kept a Sabbaoth day, according to the practiſe and writings of the Apo<g ref="char:EOLhyphen"/>ſtles.</item>
+                  </list>
+               </p>
+               <p>So much of the antiquitie of the Sab<g ref="char:EOLhyphen"/>baoth day. Now of the ends for which a Sabbaoth, or day of Reſt was firſt or<g ref="char:EOLhyphen"/>dained: and thoſe were two.</p>
+               <list>
+                  <item>1 The firſt was, a more princi<g ref="char:EOLhyphen"/>pall end, and that was to further both <hi>Adam</hi> at the firſt, and <hi>Adams</hi> poſteritie for ever, in the true wor<g ref="char:EOLhyphen"/>ſhip of God. Now, ſo long as the worſhippe of God muſt continue in the Church; ſo long muſt the Sabbaoth continue, which was made a ſubordinate meanes and helpe vnto the ſame.
+<list>
+                        <item>But the worſhippe of God, muſt
+<pb n="8" facs="tcp:150817:12"/>continue for ever in the world. Therefore alſo, while the world ſtandeth, a Sabbaoth day muſt be continued.</item>
+                     </list>
+                  </item>
+                  <item>2 The ſecond end of a Sabbaoth, was leſſe principall, and that was to helpe Nature, and to main<g ref="char:EOLhyphen"/>taine bodily ſtrength: <hi>Exod.</hi> 23.12. And in regard of theſe two ends, it is ſtill moſt neceſſary, which may appeare by reaſons.
+<list>
+                        <item>1 Generall, and thoſe may bee drawne;
+<list>
+                              <item>1 From the greater to the leſſe: For if <hi>Adam</hi> in his beſt eſtate, had neede of a Sabbaoth day, wherein he might ſerve God, by meditating vppon his works, by praying vnto him for the continuance of his grace, and by praiſing his name for benefites received, &amp;c. and all becauſe hee might fall; then much more neede have we of a Sabboth day, be<g ref="char:EOLhyphen"/>ing ſo grievouſly fallen, that ſo we may recover our ſelves againe.</item>
+                              <pb n="9" facs="tcp:150817:12"/>
+                              <item>2 From the effectes of ſinne. For after ſinne had entred, the firſt ſtrength decayed: then came in corruption and weakneſſe, paine and wearineſſe, and all fore-runners of death, with death it ſelf: in regard where<g ref="char:EOLhyphen"/>of, we all crave helpe of eaſe and reſt, without which we cannot long endure. And therefore, looke how much we are weakned &amp; broken, more then our fore-fathers were, and <hi>Adam</hi> in Paradice, ſo much more need have we of a Sabboth, (that is, a reſt) then they had.</item>
+                           </list>
+                        </item>
+                        <item>2 Speciall, and theſe in regard:
+<list>
+                              <item>1 Of the wicked, who vpon the ſix daies, never reade the ſcriptures, nor hear them, nor pray, nor meditate, nor con<g ref="char:EOLhyphen"/>ferre of religion; but by this mercifull ordinance of a Sab<g ref="char:EOLhyphen"/>baoth, they are driven to doe that which they would not otherwiſe doe: by which
+<pb n="10" facs="tcp:150817:13"/>meanes, eyther ſome good may be wrought in them, if they belong vnto God, or elſe they ſhall be left without ex<g ref="char:EOLhyphen"/>cuſe in the day of the Lord.</item>
+                              <item>2 In regard of the godly them<g ref="char:EOLhyphen"/>ſelves, who oftentimes alſo neglect the exerciſes of Gods worſhip in the weeke daies; but are driven by this meanes of a Sabbaoth, to ſupply their former wants, to their greater good.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> Gen. 2.3. <hi>So God bleſſed the ſeventh day and ſanctified it: becauſe that in it, he had reſted from all his worke, which God had crea<g ref="char:EOLhyphen"/>ted and made.</hi>
+                  </p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> Exod. 16.23. <hi>And he anſwered and ſaid, this is that which the Lord hath ſaid: To morrow is the holy reſt of the Sabbaoth vnto the Lord, bake that to day which ye will bake, &amp;c.</hi>
+                  </p>
+                  <p n="c">
+                     <hi rend="sup">c</hi> Luke 4.16. <hi>And hee came to</hi> Naza<g ref="char:EOLhyphen"/>reth, <hi>where he had beene brought vp, and as
+<pb n="11" facs="tcp:150817:13"/>his cuſtome was, went into the Synagogue on the Sabbaoth day, and ſtoode vp to reade.</hi>
+                  </p>
+                  <p n="d">
+                     <hi rend="sup">d</hi> Acts 13.14. <hi>But when they departed from</hi> Perga, <hi>they came to</hi> Antiochia, <hi>a Ci<g ref="char:EOLhyphen"/>tie of</hi> Piſidia, <hi>and went into the Synagogue on the Sabbaoth day, and ſate downe. ver.</hi> 15. <hi>And after the lecture of the Law and Pro<g ref="char:EOLhyphen"/>phets, the Rulers of the Synagogue ſent vn<g ref="char:EOLhyphen"/>to them, ſaying; Yee men and brethren, if yee have any word of exhortation for the people, ſay on. Then</hi> Paul <hi>ſtoode vp, &amp;c. verſe</hi> 42. <hi>And when they were come out of the Syna<g ref="char:EOLhyphen"/>gogue of the Iewes, the Gentiles beſought that they would preach theſe words to them the next Sabbaoth day. verſe</hi> 44. <hi>And the next Sabbaoth day came almoſt the whole Citie together, to heare the word of God.</hi>
+                  </p>
+                  <p>
+                     <hi>Chap.</hi> 17.2. <hi>And</hi> Paul, <hi>as his manner was, went in vnto them, and three Sabbaoth daies disputed with them by the Scriptures.</hi>
+                  </p>
+                  <p n="e">
+                     <hi rend="sup">e</hi> 
+                     <hi>Sixe daies thou ſhalt dee thy worke, and in the ſeventh day thou ſhalt reſt, that thy Oxe, and thy Aſſe may reſt, and the ſonne of thy maide, and the ſtranger may be refre<g ref="char:EOLhyphen"/>ſhed.</hi>
+                  </p>
+                  <p>Deut. 5.14. <hi>But the ſeventh day is the Sabbaoth of the Lord thy God, thou ſhalt not
+<pb n="12" facs="tcp:150817:14"/>doe any worke therein, nor thy ſonne, nor thy daughter nor thy man ſervant, nor thy maide, nor thy one, nor thy uſſe, neither any of thy cattell, nor the ſtranger that is within thy gates, that thy man ſervant, and thy maide, may reſt as well as thou.</hi>
+                  </p>
+                  <p>Marke 2.27. <hi>And he ſaid to them, the Sabbaoth was made for man, and not man for the Sabbaoth.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <head>Of the day that the Sabbaoth muſt be kept vpon.</head>
+               <head type="sub">CHAP. III.</head>
+               <p>AS there muſt be a Sabbaoth, or day of reſt continued in the Church of God, while the world continueth: ſo this Sabbaoth muſt be vpon one cer<g ref="char:EOLhyphen"/>taine day of the weeke, and that is the ſeventh day, for ſo God hath appoin<g ref="char:EOLhyphen"/>ted: firſt, at the creation: <hi rend="sup">a</hi> ſecondly, at the giving of the Law in <hi>Mount Si<g ref="char:EOLhyphen"/>nai.</hi> 
+                  <hi rend="sup">b</hi>
+               </p>
+               <pb n="13" facs="tcp:150817:14"/>
+               <p> But not that ſeventh day, which was from the firſt creation of the world: for that was once changed vnto the firſt day of the weeke, the day after the Iews Sabbaoth, which we now keepe for the Sabbaoth day: <hi>Acts</hi> 20.7. concerning which change, three things are diligent<g ref="char:EOLhyphen"/>ly to be conſidered.</p>
+               <list>
+                  <item>1 That it was made by the Apo<g ref="char:EOLhyphen"/>ſtles, &amp; could be made by none, ſo fitly as by them, and that for two cauſes.
+<list>
+                        <item>1 Becauſe they had the beſt gifts; for they had the ſpirit of truth to leade them into all truth. <hi rend="sup">c</hi> And therefore could ſee further into things, the<g ref="char:cmbAbbrStroke">̄</g> the reſt of the church.</item>
+                        <item>2 Becauſe, by reaſon of their great &amp; Apoſtolicall authority, they could prevaile more then thers.</item>
+                     </list>
+                  </item>
+                  <item>2 That the Apoſtles made this change of the day, vpon good rea<g ref="char:EOLhyphen"/>ſons made knowne to the Church, and thoſe were cheefely two.</item>
+               </list>
+               <list>
+                  <item>1 In memorie of the ſecond creati<g ref="char:EOLhyphen"/>on of the world by Chriſt, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="14" facs="tcp:150817:15"/>on that day, the Lord Ie<g ref="char:EOLhyphen"/>ſus did moſt gloriouſly riſe a<g ref="char:EOLhyphen"/>gaine, and ſo conquered death, ſinne, and hell, and finiſhed the worke of mans Redemption; which was a ſecond creation.</item>
+                  <item>2 Then the Lord Ieſus having as it were made the world new a<g ref="char:EOLhyphen"/>gaine, hee did,
+<list>
+                        <item>1 Ceaſe ſuffering, as God at the end of the firſt creation, cea<g ref="char:EOLhyphen"/>ſed working.</item>
+                        <item>2 Begin his glorious reſt, and ſo continueth in reſt and glorie for ever. In which reſpects,
+<list>
+                              <item>1 The time of the Goſpel is called, the world that was to come. <hi rend="sup">d</hi> The heavens and the earth, are called New: <hi rend="sup">e</hi> and all things, men &amp; all, are called new <hi rend="sup">f</hi> creatures.</item>
+                              <item>2 This new Sabbaoth alſo, is called by a new name, <hi>viz.</hi> the Lords day: <hi rend="sup">g</hi> of the Lord Ieſus: concerning which name, two things are to be noted.</item>
+                              <pb n="15" facs="tcp:150817:15"/>
+                              <item>1 That it muſt be retained with the day; becauſe part of the honour and e<g ref="char:EOLhyphen"/>ſtimation of the day con<g ref="char:EOLhyphen"/>ſiſteth in giving it his right name.</item>
+                              <item>2 That it dooth no whit a<g ref="char:EOLhyphen"/>bate the glory of the firſt creation, nor of the firſt Sabbaoth; but being ad<g ref="char:EOLhyphen"/>ded vnto it, as a further honour, doth increaſe the dignitie of it, even as <hi>Ia<g ref="char:EOLhyphen"/>cob</hi> was more renowned of God, when he was alſo called <hi>Iſrael.</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>3 That this firſt day of the Iewes weeke, which we now keepe for the Sabbaoth, is that Sabbaoth day which was ordained by the Apoſtles, through the direction of Gods ſpirite: and therefore muſt remaine for ever, and never more be changed. For,
+<list>
+                        <item>1 Vppon this day, the Primitive churches, with the conſent of the Apoſtles, vſed to aſſemble, and
+<pb n="16" facs="tcp:150817:16"/>to exerciſe all the parts of Gods worſhippe, which were pro<g ref="char:EOLhyphen"/>per to the Sabbaoth day. <hi rend="sup">h</hi>
+                        </item>
+                        <item>2 The Apoſtle Saint <hi>Paul,</hi> willeth that to be done vpon this day which is moſt fit for the Sab<g ref="char:EOLhyphen"/>baoth day: and that is, collecting for the poore, <hi rend="sup">i</hi> as more at large is ſhewed in chapter 10.</item>
+                        <item>3 This day hath beene kept of all Churches ever ſince the Apo<g ref="char:EOLhyphen"/>ſtles time; and in all the new Teſtament, is nothing found to controle the ſame: neither was it ever reſiſted by the Apo<g ref="char:EOLhyphen"/>ſtles, but hath beene by their writings approved, and by their practiſe confirmed vnto vs.</item>
+                     </list>
+                  </item>
+               </list>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> Gen 2.3. <hi>So God bleſſed the ſeventh day, and ſanctified it, &amp;c.</hi>
+                  </p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> Exod. 20.8. <hi>Remember the Sabba<g ref="char:EOLhyphen"/>oth day to keepe it holy, &amp;c. verſe</hi> 10. <hi>But the ſeventh day is the Sabbaoth of the Lord thy God.</hi>
+                  </p>
+                  <p n="c">
+                     <pb facs="tcp:150817:16"/>
+                     <hi rend="sup">c</hi> Iohn 16.13. <hi>Howbeit, when hee is come, which is the ſpirit of truth, he will leade you into all truth.</hi>
+                  </p>
+                  <p n="d">
+                     <hi rend="sup">d</hi> Heb. 2.5. <hi>For he hath not put in ſub<g ref="char:EOLhyphen"/>iection vnto the Angells, the world to come, whereof we ſpeake.</hi> 
+                     <hi rend="sup">e</hi> Eſa. 65.17. <hi>For loe, I will create new heavens, and a new earth, and the former ſhall not be remembred, nor come into minde. verſe</hi> 18. <hi>But be you glad and reioyce for ever, in the things that I ſhall create: for behold, I will create</hi> Ieruſalem <hi>as a reioycing, and her people as a ioy.</hi> 
+                     <hi rend="sup">f</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Cor. 5.17. <hi>Therefore, if any man be in Chriſt, let him be a new creature: old things are paſſed away; behold, all things are become new.</hi>
+                  </p>
+                  <p n="g">
+                     <hi rend="sup">g</hi> Apoc. 1.10. <hi>And I was in the ſpirit on the Lords day.</hi>
+                  </p>
+                  <p n="h">
+                     <hi rend="sup">h</hi> Acts 20.7. <hi>And the firſt day of the weeke, the Diſciples being come together, to breake bread,</hi> Paul <hi>preached vnto them.</hi>
+                  </p>
+                  <p n="i">i 1. Corin. 16.2. <hi>Euery firſt day of the weeke, let every one of you put aſide by him<g ref="char:EOLhyphen"/>ſelfe, and lay vp as God hath prospered him, that then there be no gatherings when I come.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <pb facs="tcp:150817:17"/>
+               <head>What manner of rest must be kept.</head>
+               <head type="sub">CHAP. IIII.</head>
+               <p>IT is not enough to keepe a reſt, but we muſt keepe a moſt preciſe and ex<g ref="char:EOLhyphen"/>act reſt, and that may appeare vnto vs two waies.</p>
+               <list>
+                  <item>1 By the manifold Commaunde<g ref="char:EOLhyphen"/>ments, even for the keeping of the Sabbaoth.</item>
+                  <item>2 By the vrging and repeating of the word <hi>[Reſt]</hi> in ſo many words, ſo often, and ſo <hi rend="sup">a</hi> particularly.</item>
+               </list>
+               <p>All the Commandements, given for the keeping of the Sabbaoth, are two fold,
+<list>
+                     <item>Generall, whereof ſome be without <hi rend="sup">b</hi> penalties expreſſed: and ſome be with <hi rend="sup">c</hi> penalties annexed.</item>
+                     <item>Speciall, wherein the Lord forbid<g ref="char:EOLhyphen"/>deth his people to worke on ſuch things, and at ſuch times, as might carry the greateſt ſhew of being exempted: as namely.</item>
+                  </list>
+               </p>
+               <pb n="19" facs="tcp:150817:17"/>
+               <list>
+                  <item>1 Gathering of Manna, <hi rend="sup">d</hi> when they were fed but from hand to mouth, (as they ſay.)</item>
+                  <item>2 Making of the Tabernacle, <hi rend="sup">e</hi> thogh it were the place where<g ref="char:EOLhyphen"/>in the Lord ſhould be ſerved.</item>
+                  <item>3 Working in harveſt time; <hi rend="sup">f</hi> yea, though it commeth but once a yeare, and for mans life is moſt neceſſary.</item>
+                  <item>4 Keeping of faires and markets, <hi rend="sup">g</hi> carrying of things to be ſold, and ſelling of victualls there, though then indeed much might be gained.</item>
+               </list>
+               <p>As it appeareth by the manifolde Commandements, both generall, and ſpeciall for the Sabbaoth, what manner of reſt it is that muſt be kept; ſo alſo is it made evident, by the vrging and repea<g ref="char:EOLhyphen"/>ting of the word ſo often, in ſo manie words, and ſo particularly, as we have ſeene before, in <hi>Exod.</hi> 16.23. <hi>&amp;c.</hi> which reſt thus vrged, is two fold.</p>
+               <list>
+                  <item>1 Outward, and of the whole body, and that is two fold.</item>
+                  <pb n="20" facs="tcp:150817:18"/>
+                  <item>1 From doing any of the foreſaid things, forbidden by ſpeciall commaund: or other workes whatſoever we vſe, or may doe lawfully on the ſixe daies: and they be of two ſorts.
+<list>
+                        <item>1 Works of our Vocation. And therefore, it is not lawfull on the Sabbaoth day, for Carriers to travell with their carriages, <hi rend="sup">h</hi> for Schoolemaiſters to teach or ſtudie humanitie, for Phy<g ref="char:EOLhyphen"/>ſitians to reade bookes of ſur<g ref="char:EOLhyphen"/>gery or phyſicke, for Lawyers to ſtudie the caſe, peruſe evi<g ref="char:EOLhyphen"/>dences, &amp;c. nor for Iudges and Iuſtices, to ride their circuites, or ſit in iudgement; becauſe all theſe are the ordinarie duties of their vocation, which be<g ref="char:EOLhyphen"/>long to the ſixe daies, except in caſes excepted in the next chapter.</item>
+                        <item>2 Works of our Recreation; yea, though they be honeſt, and at other times lawfull. For
+<pb n="21" facs="tcp:150817:18"/>
+                           <list>
+                              <item>1 If the duties of our vocati<g ref="char:EOLhyphen"/>on, without which a Com<g ref="char:EOLhyphen"/>mon-wealth cannot ſtand, muſt ceaſe when we ſhould attend vppon the Lordes worke, much more muſt our pleaſures ceaſe, without which, men may continue, though not well.</item>
+                              <item>2 As the works of our recrea<g ref="char:EOLhyphen"/>tion are leſſe needefull than thoſe of our vocation: ſo they doe more hinder vs from the ſanctifying of the Sabbaoth, by reaſon of the exceſsive delight, which our corrupt nature doth take in them.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>2 From ſpeaking and hearing of worldly buſineſſe, and that for two cauſes.
+<list>
+                        <item>1 Becauſe much talking and hearing of worldly buſineſſe, doe as much hinder the ſancti<g ref="char:EOLhyphen"/>fying of the Sabboth, as much working doe for,
+<pb n="22" facs="tcp:150817:19"/>
+                           <list>
+                              <item>1 We may worke alone, we cannot talke but with o<g ref="char:EOLhyphen"/>thers: and ſo wee hinder both our ſelves, and others too.</item>
+                              <item>2 Our mindes cannot be ſet wholly vpon the worſhip and ſervice of God, as they ſhould, and at the ſame time be talking, and hearing of <hi rend="sup">i</hi> worldly matters.</item>
+                           </list>
+                        </item>
+                        <item>2 Becauſe this Commandement muſt be no more reſtrained then the other. And therefore, vaine wordes, and worldly ſpeeches, are heer alſo forbid<g ref="char:EOLhyphen"/>den, <hi rend="sup">k</hi> as well as profane ſpee<g ref="char:EOLhyphen"/>ches in the firſt, as naming of falſe gods in the ſecond, as vaine othes in the third, as contemptuous ſpeeches in the fift, as railing wordes in the ſixt, as filthy words in the ſe<g ref="char:EOLhyphen"/>venth, as covetous ſpeeches in the eight, &amp; ſlandrous words in the ninth.</item>
+                     </list>
+                  </item>
+                  <item>2 Inward, and of the minde: <hi>viz.</hi>
+                     <pb n="25" facs="tcp:150817:19"/>from ſtudying, and th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>th day,</hi> worldly matters; and great <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> there is ſo to beleeve. For,
+<list>
+                        <item>1 The whole law was given to the whole man.</item>
+                        <item>2 The creation, redemption, and preſervation, to the glorification both of body and ſoule, do bind vs to obey God, both in bodie and minde.</item>
+                        <item>3 The law cannot elſe be perfect and abſolute, like the Law-gi<g ref="char:EOLhyphen"/>ver, who as he is a ſpirit, ſo hee will be ſerved in ſpirit and mind.</item>
+                        <item>4 Except our mindes be emptied of all worldly affaires, there can be no roome for heavenly me<g ref="char:EOLhyphen"/>ditations to dwell in.</item>
+                        <item>5 The very end why we diſpatch our hands of our buſineſſe, is, that our mindes might not be di<g ref="char:EOLhyphen"/>ſturbed with them.</item>
+                     </list>
+                  </item>
+               </list>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> Exod. 16.23. <hi>To morrow is the reſt of the holy Sabboth vnto the Lord: and chap<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:150817:20"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> daies ſhall men worke, but the <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> day is the Sabbaoth of the holy rest vnto the Lord: whoſoever doth any worke in the Sabbaoth day, ſhall die the death: and</hi> 35.2. <hi>as before.</hi>
+                  </p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> Exod. 20.10. <hi>But the ſeventh day is the Sabbaoth of the Lord thy God, in it thou ſhalt doe no manner of worke, &amp;c.</hi>
+                  </p>
+                  <p n="c">
+                     <hi rend="sup">c</hi> Exod. 31.14. <hi>Hee that defileth it, (meaning the Sabbaoth) ſhall die the death. Therefore, whoſoever worketh therein, the ſame perſon ſhall be even cut off from among his people.</hi> Ier. 17.27. <hi>But if yee will not heare me to ſanctifie the Sabbaoth day, and not to beare a burden, nor to goe through the gates of</hi> Ieruſalem <hi>on the Sabbaoth day, then will I kindle a fire in the gates thereof, and it ſhall devoure the pallaces of</hi> Ieruſalem, <hi>and ſhall not be quenched.</hi>
+                  </p>
+                  <p n="d">
+                     <hi rend="sup">d</hi> Exod. 16.26. <hi>Six daies ſhall ye gather it, but in the ſeventh day, is the Sabbaoth, in it there ſhall be none.</hi> 27. <hi>Notwithſtanding there went out ſome on the ſeventh day to ga<g ref="char:EOLhyphen"/>ther, but they found none.</hi> 28. <hi>And the Lord ſaid vnto</hi> Moſes; <hi>How long refuſe yee to keepe my Commandements and my lawes?</hi> 29. <hi>Behold how the Lord hath given you the Sab<g ref="char:EOLhyphen"/>baoth:
+<pb n="25" facs="tcp:150817:20"/>therefore hee giveth you the ſixth day, bread for two daies: tarry therefore everie man in his place, let no man goe out of his place the ſeventh day.</hi> 30. <hi>So the people reſted the ſeventh day.</hi>
+                  </p>
+                  <p n="c">
+                     <hi rend="sup">c</hi> Exod. 31.12. <hi>Afterward the Lord ſpake vnto</hi> Moſes <hi>ſaying;</hi> 13. <hi>Speake thou alſo vnto the children of</hi> Iſrael, <hi>ſaying; Not<g ref="char:EOLhyphen"/>withſtanding, keepe yee my Sabbaoths, for it is a ſigne betweene me and you, &amp;c.</hi>
+                  </p>
+                  <p n="f">
+                     <hi rend="sup">f</hi> Exo. 34.21. <hi>Six daies thou ſhalt worke, and in the ſeventh day, thou ſhalt rest, both in earing time, and in the harvest thou ſhalt rest.</hi>
+                  </p>
+                  <p n="g">
+                     <hi rend="sup">g</hi> Nehe. 13.15. <hi>In thoſe daies ſaw I in</hi> Iudah, <hi>thoſe that trode wine preſſes on the Sabbaoth day, and which brought in ſheaves, and laded Aſſes alſo with wine, grapes, and figges, and all burthens, and brought them in<g ref="char:EOLhyphen"/>to</hi> Ieruſalem <hi>on the Sabbaoth day; and I pro<g ref="char:EOLhyphen"/>teſted to them in the day that they ſold victu<g ref="char:EOLhyphen"/>alls.</hi> 16. <hi>There dwelt men of</hi> Tyrus <hi>alſo therein, which brought fiſh and all wares, and ſold on the Sabbaoth day, vnto the children of</hi> Iudah, <hi>even in</hi> Ieruſalem. 19. <hi>And when the gates of</hi> Ieruſalem <hi>beganne to be darke before the Sabbaoth, I commanded to
+<pb n="26" facs="tcp:150817:21"/>ſhut the gates, and charged that they ſhould not be opened vntill after the Sabbaoth, &amp;c.</hi>
+                  </p>
+                  <p n="h">
+                     <hi rend="sup">h</hi> Ier. 17.21. <hi>Thus ſaith the Lord; Take heede to your ſoules, and beare no burden in the Sabbaoth day, nor bring it in by the gates of</hi> Ieruſalem. 22. <hi>Neither carry forth bur<g ref="char:EOLhyphen"/>dens out of your houſes on the Sabbaoth day.</hi>
+                  </p>
+                  <p n="i">
+                     <hi rend="sup">i</hi> Math. 6.24. <hi>No man can ſerve two maſters.</hi>
+                  </p>
+                  <p n="k">
+                     <hi rend="sup">k</hi> Eſa. 58.13. <hi>If thou turne away thy foote from the Sabbaoth, from doing thy will on my holy day, and call the Sabbaoth a de<g ref="char:EOLhyphen"/>light, to conſecrate it as glorious to the Lord, and ſhall honour him, not doing thy own waies, nor ſeeking thine owne will, nor ſpeaking a vaine word: then ſhalt thou delight in the Lord, &amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <head>What works may be done vpon the Sabbaoth day.</head>
+               <head type="sub">CHAP. V.</head>
+               <p>FRom that ſtrait and ſevere Law of reſting, (handled in the former chap<g ref="char:EOLhyphen"/>ter)
+<pb n="27" facs="tcp:150817:21"/>are exempted all workes of neceſsi<g ref="char:EOLhyphen"/>tie, as lawfully to be done vppon the Sabbaoth day: which by the doctrine and practiſe of our Saviour Chriſt, in <hi>Math</hi> 12.1. to 13. appeare to be of two ſorts.</p>
+               <list>
+                  <item>1 Works of religion or holineſſe.</item>
+                  <item>2 Works of compaſsion or charitie, which cannot be deferred vnto an<g ref="char:EOLhyphen"/>other day, nor could be provided for, nor prevented before.</item>
+               </list>
+               <p>All religious works of neceſsitie, are of two ſorts.</p>
+               <list>
+                  <item>1 All bodily labour, that directly concerneth the worſhip of of God. So in the time of the Law, did the Prieſts labour when they did ſlay the beaſts, prepare the ſacrifices, and offer them on the altar. And ſo, in time of the Goſpel, may, and ought Chriſtians to travell, thogh farre, and faintly, to the places of Gods worſhip: and ſo alſo ought the Preacher then to labour in preaching the word, &amp;c. yea, thogh it be in the ſweate of his browes, and to the wearying of his bodie,
+<pb n="28" facs="tcp:150817:22"/>as many doe. For though to travell and to ſpeake, as in manner afore<g ref="char:EOLhyphen"/>ſaid, be each of them a labourſome worke to the body, yet is that la<g ref="char:EOLhyphen"/>bour lawfull: becauſe,
+<list>
+                        <item>1 It is warranted by the exam<g ref="char:EOLhyphen"/>ple of our Saviour Chriſt, &amp; his diſciples, who went from town to towne, to preach, vntill they were both <hi rend="sup">a</hi> hungry and faintie. As alſo by the example of the Shunamite, who travelled from home vpon the Sabbaoth, to the place of the Prophets: <hi rend="sup">b</hi> be<g ref="char:EOLhyphen"/>cauſe ſhee had no teaching at home.</item>
+                        <item>2 The holy worke, about which this labour is imployed, dooth ſanctifie the labour and make it holy, even as the Temple did ſanctifie the gold that was laid vpon the Temple; and as the Al<g ref="char:EOLhyphen"/>tar did ſanctifie the gift of the Altar. <hi>Math.</hi> 23.17, 19.</item>
+                     </list>
+                  </item>
+                  <item>2 All other bodily labour, whereby the people of God are both called together, to the ſervice of God (as
+<pb n="29" facs="tcp:150817:22"/>in the time of the law, they were by ſounding of trumpets. <hi>Numb.</hi> 10.2, 3. And in time of the Goſpel, by ringing of bells:) as alſo comfor<g ref="char:EOLhyphen"/>tably refreſhed and fitted for the ſervice of God; as receiving of ne<g ref="char:EOLhyphen"/>ceſſary and convenient foode to ſtrengthen nature: <hi rend="sup">c</hi> as alſo to ſleepe a little after dinner, (though it be no bodily labour, but eaſe:) I doubt not is lawfull for the pre<g ref="char:EOLhyphen"/>venting of ſleepe and drowſineſſe at the holy Aſſembly. And if any will ſay, that by the ſame reaſon ſome recreation may be allowed to ſome perſons on the Sabbaoth day, for dulneſſe &amp; infirmitie ſake, I will not contend greatly with them, ſo it be privately, ſparingly, and moderately taken, and that by weake &amp; ſickely perſons, vſed on<g ref="char:EOLhyphen"/>ly to make them more fit for the ſervice of God: which end, howſo<g ref="char:EOLhyphen"/>ever it be commonly pretended in the world, by men of vanitie and pleaſure, yet doubtleſſe is it the thing that is leaſt regarded a<g ref="char:EOLhyphen"/>mongſt
+<pb n="30" facs="tcp:150817:23"/>them, they being ſuch as commonly addict themſelves to all ſports and paſtimes, both openly and ſecretly, as hunting, hawking, bowling, ſhooting, carding, dicing, tables, &amp;c. and therefore this al<g ref="char:EOLhyphen"/>lowance, whatſoever it be, doth no way make for them, but againſt them.</item>
+               </list>
+               <p>So much concerning works of reli<g ref="char:EOLhyphen"/>gion or holineſſe, which of neceſsitie muſt be done vpon the Sabbaoth day. Now to works of compaſsion or cha<g ref="char:EOLhyphen"/>ritie, and they be of two ſorts.</p>
+               <list>
+                  <item>1 Such duties as tend to the preſer<g ref="char:EOLhyphen"/>vation of man. Firſt, of our ſelves, as <hi>Eliah</hi> did ſave himſelfe by flee<g ref="char:EOLhyphen"/>ing fortie daies together, (where<g ref="char:EOLhyphen"/>in were many Sabbaoths) from <hi>Iezebel,</hi> 1. <hi>King.</hi> 19.8. next, of o<g ref="char:EOLhyphen"/>thers, as generally of our Country, as when enemies invade, when tu<g ref="char:EOLhyphen"/>mults ariſe, robberies are done, &amp;c. ſpecially of our friends; as when any fire breaketh out, or when any is dangerouſly ſicke, &amp;c. yea, and of our foes too, in the ca<g ref="char:EOLhyphen"/>ſes
+<pb n="31" facs="tcp:150817:23"/>aforeſaid, or the <hi rend="sup">d</hi> like.</item>
+                  <item>2 Such duties as make for the preſer<g ref="char:EOLhyphen"/>vation of other creatures, <hi>viz.</hi> the <hi rend="sup">e</hi> beaſts, &amp;c. as fothering, wate<g ref="char:EOLhyphen"/>ring, ſeeking, curing, &amp;c. Provi<g ref="char:EOLhyphen"/>ded alwaies, that we abuſe not this liberalitie of God, and libertie of Chriſtians, as too many doe.
+<list>
+                        <item>1 By imagining a neceſsitie where none is apparant, as Clothiers, and Cloth-workers doe, which for greedy covetouſneſſe onely, ſet their rackes, and worke hard vpon the clothes being ſet, and that on every Sabbaoth through the yeare, if worke and weather ſerve, for feare forſooth (as they pretend) of fowle weather the weeke following, or loſing their markets, or maſters cuſtome, &amp;c. when there is indeede, no neceſ<g ref="char:EOLhyphen"/>ſitie apparant; but that, (if they durſt, or could truſt the Lord) they might well let them ſtay vntill the next day. So doe Huſ<g ref="char:EOLhyphen"/>bandmen alſo imagine a neceſ<g ref="char:EOLhyphen"/>ſitie, where none is, working in
+<pb n="32" facs="tcp:150817:24"/>harveſt time on the Lords day, for feare of raine the next day, &amp;c.</item>
+                        <item>2 By bringing a neceſsitie vpon them, which God hath not laid vppon them, as many doe, through,
+<list>
+                              <item>1 Careleſneſſe, as thoſe which care not to remember the Sab<g ref="char:EOLhyphen"/>both day before it come, that they might accordingly, lay for the doing of their worke, being artificers, &amp;c. and for their wearineſſe, being to tra<g ref="char:EOLhyphen"/>vell.</item>
+                              <item>2 Slothfulneſſe, as thoſe that drive off, either all, or part of their buſines, vntill the Lords day.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> Math. 12.1. <hi>At that time, Ieſus went on a Sabbaoth day through the corne, and his Diſciples were an hungred, and beganne to plucke the eares of corne, and to eate.</hi> 2. <hi>And
+<pb n="33" facs="tcp:150817:24"/>when the Phariſes ſaw it, they ſaid vnto him; Behold, thy Diſciples doe that which is not lawfull to doe vpon the Sabbaoth.</hi> 3. <hi>But hee ſaid vnto them; Have ye not read what</hi> Da<g ref="char:EOLhyphen"/>vid <hi>did when he was an hungred? &amp;c.</hi> Mar. 2.23, 24, 25. Luke 6.1, 2, 3. as be<g ref="char:EOLhyphen"/>fore.</p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> 2. Kings 4.22. <hi>Then ſhee ſaid to her huſband; I will haſte to the man of God, and come againe.</hi> 23. <hi>And he ſaid; Wherefore wilt thou goe to him to day? It is neither new Moone, nor Sabbaoth day, &amp;c.</hi>
+                  </p>
+                  <p n="c">
+                     <hi rend="sup">c</hi> Exod. 12.16. <hi>Alſo in the ſeventh day, ſhall be an holy Aſſembly vnto you, no worke ſhall be done in them, ſave about that which every man must eate, that onely may yee doe. See</hi> Math. 12.1. <hi>&amp;c. as before at</hi> 
+                     <hi rend="sup">a</hi>
+                  </p>
+                  <p n="d">
+                     <hi rend="sup">d</hi> Levit. 19.18. <hi>Thou ſhalt not avenge, nor be mindefull of wrong, againſt the children of thy people, but ſhalt love thy neighbour as thy ſelfe, &amp;c.</hi> Math. 5.44. <hi>But I ſay vnto you; Love your enemies, &amp;c. See</hi> Luke 6.27. <hi>to.</hi> 36.</p>
+                  <p n="e">
+                     <hi rend="sup">e</hi> Math. 12.11. <hi>Which of you having a ſheepe fall in a Sabbaoth day into a pit, will not take it and lift it out?</hi> Mar. 2.27. <hi>The Sabbaoth was made for man, and not man
+<pb n="34" facs="tcp:150817:25"/>for, &amp;c.</hi> Luke 13.15. <hi>Hypocrite, doth not each one of you on the Sabbaoth day looſe his Oxe, or his Aſſe from the ſtall, and leade him away to the water?</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <head>Of the perſons to whom this Rest is inioyned.</head>
+               <head type="sub">CHAP. VI.</head>
+               <p>THe perſons commaunded to ob<g ref="char:EOLhyphen"/>ſerve this holy Reſt, are two fold.</p>
+               <list>
+                  <item>1 All Governours, whether they be publike, as Princes, and other Ma<g ref="char:EOLhyphen"/>giſtrates; or private, as parents and maſters of families.</item>
+                  <item>2 All that be in ſubiection.</item>
+               </list>
+               <p>Of Governours, two things are requi<g ref="char:EOLhyphen"/>red.</p>
+               <list>
+                  <item>1 That they reſt themſelves.</item>
+                  <item>2 That they ſee the Reſt kept by thoſe that are vnder them.</item>
+               </list>
+               <p>That themſelves muſt reſt, there is great reaſon: for,</p>
+               <p n="1">
+                  <pb n="35" facs="tcp:150817:25"/> 1 The Law of God doth no more privilege them to breake the Comman<g ref="char:EOLhyphen"/>dements of God, than it dooth other <hi rend="sup">a</hi> men.</p>
+               <p n="2">2 Their example is dangerous, if they doe not keepe the Reſt: and profi<g ref="char:EOLhyphen"/>table, if they doe keepe it.</p>
+               <p n="3">3 They muſt puniſh thoſe that of<g ref="char:EOLhyphen"/>fend in this point; which they cannot doe well, if they offend themſelves therein.</p>
+               <p>As they muſt keepe the Sabbaoth themſelves, ſo they muſt alſo ſee it kept by thoſe that are vnder them.</p>
+               <list>
+                  <item>1 The Magiſtrate in the Common<g ref="char:EOLhyphen"/>wealth muſt ſee it kept, and that two waies;
+<list>
+                        <item>Firſt, by making of good lawes for the preſervation of the reſt, with penalties and puniſhments for the offenders.</item>
+                        <item>Secondly, by looking diligently to the execution of the ſame; for whoſe incouragement, the Lord hath recorded in his word, two ſin<g ref="char:EOLhyphen"/>gular things.
+<pb n="36" facs="tcp:150817:26"/>
+                           <list>
+                              <item>1 A ſpeciall promiſe of ſingular bleſsing vpon themſelves, and vpon their <hi rend="sup">b</hi> people.</item>
+                              <item>2 A notable example of <hi>Nehemi<g ref="char:EOLhyphen"/>ah,</hi> doing the like. In whom, two things are to be obſerved.</item>
+                           </list>
+                        </item>
+                        <item>See <hi>Nehe.</hi> 13.15, 16. &amp;c.
+<list>
+                              <item>1 What zealous courage ſhould bee in a Magi<g ref="char:EOLhyphen"/>ſtrate, for the ſuppreſ<g ref="char:EOLhyphen"/>ſing of ſuch abuſes as do profane the holy Sab<g ref="char:EOLhyphen"/>both, and diſhonour the name of God.</item>
+                              <item>2 What a bleſſed ſucceſſe God ſendeth vpon the godly endeavours and encounters of all ſuch: (all enemies and hin<g ref="char:EOLhyphen"/>derances notwithſtan<g ref="char:EOLhyphen"/>ding.)</item>
+                           </list>
+                        </item>
+                        <item>2 Maiſters of families muſt ſee it kept, and that two waies. Firſt, by commanding their families to ob<g ref="char:EOLhyphen"/>ſerve the Sabbaoth. Secondly, by puniſhing thoſe that diſobey their commaundement. Provided al<g ref="char:EOLhyphen"/>waies, that their commandements
+<pb n="37" facs="tcp:150817:26"/>and puniſhments be free from hy<g ref="char:EOLhyphen"/>pocriſie and crueltie, to which end they muſt take heede of three things.
+<list>
+                              <item>1 That they cauſe not their ſer<g ref="char:EOLhyphen"/>vants or others, to worke for them, when themſelves doe reſt; as many hypocrites doe, which vpon the Sabbaoth day, compell their ſervants to worke in har<g ref="char:EOLhyphen"/>veſt time, ſend them to faires, and cauſe Shoomakers, and Tai<g ref="char:EOLhyphen"/>lers, and ſuch like, &amp;c. to worke, and bring home their worke on that day.</item>
+                              <item>2 That they leave it not to their ſervants choice to keepe it, or not to keepe it; but to take an account of them.</item>
+                              <item>3 That they overlay not their ſer<g ref="char:EOLhyphen"/>vants ſo with their worke in the ſix daies, but that they may have ſome time ſpared them to doe their owne in; as to viſite their friends, when neede requireth, to mend their apparrell, and buy their proviſion, &amp;c.</item>
+                           </list>
+                        </item>
+                     </list>
+                     <pb n="38" facs="tcp:150817:27"/>
+                     <p>So much of Governers duties, in re<g ref="char:EOLhyphen"/>gard of the holy Reſt. Now of thoſe that be in ſubiection, and they (as they are mentioned in the Commandement) are of two ſorts.</p>
+                     <list>
+                        <item>1 Such as are indued with reaſon.</item>
+                        <item>2 Such as are voide of reaſon.</item>
+                     </list>
+                     <p>Thoſe that are indued with reaſon, are of two ſorts.</p>
+                     <list>
+                        <item>1 Thoſe that are of our familie.</item>
+                        <item>2 Strangers.</item>
+                     </list>
+                     <p>Thoſe that be of our familie, are like<g ref="char:EOLhyphen"/>wiſe two fold.</p>
+                     <list>
+                        <item>1 Such as are of vs, as our wives and children.</item>
+                        <item>2 Such as are not of vs, but with vs, as ſoiorners and ſervants.</item>
+                     </list>
+                     <p>That ſervants ſhould then reſt, as well as their maſters, there is great rea<g ref="char:EOLhyphen"/>ſon, and is three fold.</p>
+                     <list>
+                        <item>1 Their condition were elſe intolle<g ref="char:EOLhyphen"/>rable. <hi rend="sup">c</hi> And ſeeing God hath ap<g ref="char:EOLhyphen"/>pointed them one whole day in ſe<g ref="char:EOLhyphen"/>ven, we can give them no leſſe.</item>
+                        <item>2 The place and calling of a ſer<g ref="char:EOLhyphen"/>vant, requireth great dutie and thankfulneſſe, both to God and
+<pb n="39" facs="tcp:150817:27"/>man: both which are to be learned vpon the Sabbaoth day, and that cannot be done without reſt both of body and minde.</item>
+                        <item>3 God will be honoured in the ſan<g ref="char:EOLhyphen"/>ctification of the Sabbaoth, as well by ſervants, as by <hi rend="sup">d</hi> maſters.</item>
+                     </list>
+                     <p>Strangers alſo muſt keepe this Reſt with vs, of what Country or religion ſo<g ref="char:EOLhyphen"/>ever they be, if they be vnder our go<g ref="char:EOLhyphen"/>vernment; and that for two reaſons.</p>
+                     <list>
+                        <item>1 They (being ioyned to Gods peo<g ref="char:EOLhyphen"/>ple, and vnder their government) muſt be ſubiect (at the leaſt) to the outward diſcipline and order of the <hi rend="sup">e</hi> Church.</item>
+                        <item>2 Otherwiſe they ſhould become ſnares to intangle Gods people, by working when they reſt.</item>
+                     </list>
+                     <p>So much for thoſe that are indued with reaſon. Now it remaineth to ſee further, that thoſe things alſo which are void of reaſon, muſt reſt when the Sab<g ref="char:EOLhyphen"/>baoth day comes; and they are alſo of two ſorts.</p>
+                     <list>
+                        <item>1 Things living, as cattell, and they muſt reſt for two cauſes.
+<pb n="40" facs="tcp:150817:28"/>
+                           <list>
+                              <item>1 For the renuing of their ſtrength, for mans further benefite. <hi>Exod.</hi> 23.12.</item>
+                              <item>2 Thereby to keepe men the bet<g ref="char:EOLhyphen"/>ter vnto the obedience of this reſt, ſeeing the beaſts themſelves might not breake it.</item>
+                           </list>
+                        </item>
+                        <item>2 Things without life, as the ground from being <hi rend="sup">f</hi> digged, tilled, &amp;c. that men might learne thereby, of what weight and moment the Sab<g ref="char:EOLhyphen"/>baoth is, when all creatures ſhould ſtoope vnto it; yea, the very inſen<g ref="char:EOLhyphen"/>ſible ground, not free from the ſub<g ref="char:EOLhyphen"/>iection of it.</item>
+                     </list>
+                  </item>
+               </list>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> Eſa. 30.33. <hi>For</hi> Tophet <hi>is prepared of old, it is even prepared for the King.</hi>
+                  </p>
+                  <p>Deut. 17.18. <hi>And when he ſhall ſit vpon the throne of his kingdome, then ſhall he write him this Law repeated in a booke by the Prieſts of the Levites.</hi> 19. <hi>And it ſhall be with him, and he ſhall reade therein all daies of his life, that he may learue to feare the Lord his
+<pb n="41" facs="tcp:150817:28"/>God, and to keepe all the words of this Law; and theſe ordinances, for to doe them.</hi> Iere. 17.20. <hi>And ſay vnto them; Heare the word of the Lord, yee Kings of</hi> Iudah, <hi>and all</hi> Iu<g ref="char:EOLhyphen"/>dah, <hi>and all the inhabitants of</hi> Ieruſalem, <hi>that enter in by theſe gates.</hi> 21. <hi>Thus ſaith the Lord; Take heede to your ſoules, and beare no burden in the Sabbaoth day, &amp;c.</hi>
+                  </p>
+                  <p>Math. 3.10. <hi>And now alſo is the axe put to the roote of the trees, therefore every tree that bringeth not forth good fruit, is hewen downe and caſt into the fire.</hi>
+                  </p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> Ier. 17.25. <hi>Then ſhall the Kings and the Princes enter in at the gates of this Citie, and ſhall ſit vpon the throne of</hi> David, <hi>and ſhall ride vpon Charets, and vpon horſes; they and the men of</hi> Iudah, <hi>&amp;c.</hi> 26. <hi>And they ſhall come from the Cities of</hi> Iudah, <hi>and from about</hi> Ieruſalem, <hi>and from the land of</hi> Ben<g ref="char:EOLhyphen"/>iamin, <hi>and from the Plaine, and from the Mountaines, and from the South, which ſhall bring burnt offerings and ſacrifices, and meate offerings, and incenſe, and ſhall bring ſacrifice of praiſe, vnto the houſe of the Lord.</hi>
+                  </p>
+                  <p n="c">
+                     <hi rend="sup">c</hi> Deut. 5.14. <hi>The ſeventh day is the Sabbaoth of the Lord thy God, thou ſhalt not doe any worke therein, nor thy ſonne, nor thy
+<pb n="42" facs="tcp:150817:29"/>daughter, nor thy man ſervant, nor thy maid, nor thy oxe, nor thy aſſe, neither any of thy cat<g ref="char:EOLhyphen"/>tell, nor the ſtranger that is within thy gates, that thy man ſervant and thy maid, may rest as well as thou.</hi> Exod. 23.12. <hi>In the ſeventh day thou ſhalt reſt, that thine oxe and thine aſſe may reſt, and the ſonne of thy maid, and the ſtranger may be refreſhed.</hi>
+                  </p>
+                  <p n="d">
+                     <hi rend="sup">d</hi> Epheſ. 6.9. <hi>And yee masters, doe the ſame things vnto them, putting away threat<g ref="char:EOLhyphen"/>nings, and know that even your Maister alſo is in heaven: neither is there reſpect of per<g ref="char:EOLhyphen"/>ſon with him; and verſe</hi> 8. <hi>Whatſoever good thing any man doth, that ſame ſhall he receive of the Lord, whether bond, or free. See</hi> Col. 3.11.</p>
+                  <p n="e">
+                     <hi rend="sup">e</hi> Exod. 12.49 <hi>One Law ſhall be to him that is borne in the land, and to the ſtranger that dwelleth among you.</hi>
+                  </p>
+                  <p n="f">
+                     <hi rend="sup">f</hi> Levit. 25.3. <hi>Six years thou ſhalt ſowe thy field, &amp; ſix yeares thou ſhalt cut thy vine<g ref="char:EOLhyphen"/>yard, and gather the fruit thereof.</hi> 4. <hi>But the ſeventh yeare ſhall be a Sabbaoth of rest vnto the land: the Lords Sabbaoth: thou ſhalt neither ſowe thy field, nor cut thy vineyard.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="43" facs="tcp:150817:29"/>
+               <head>Obiections against the first part anſwered.</head>
+               <head>CHAP. VII.</head>
+               <p>OBiections which are commonly made againſt the doctrine of the Reſt, are of two ſorts: <hi>viz.</hi> ſuch as ariſe,
+<list>
+                     <item>1 Of ſome ſcruple, or doubt of con<g ref="char:EOLhyphen"/>ſcience among the better ſort.</item>
+                     <item>2 Of mindes poſſeſſed, either with a prowd perſwaſion of mans owne ſufficiencie to keepe the Law, as the Papiſts and popiſh Proteſtants are, or elſe with greedie covetouſ<g ref="char:EOLhyphen"/>neſſe, and diſtruſtfulneſſe of Gods providence, as worldlings be.</item>
+                  </list>
+               </p>
+               <p>Obiections of the firſt ſort, are chiefe<g ref="char:EOLhyphen"/>ly two, which with their anſwers, are as followeth.</p>
+               <p n="1">1 Obiection. Chriſts obſervation of the Sabbaoth day, maketh no more for the continuance of a Sabbaoth, then his obſerving of Circumciſion, the Paſſeover, the ſacrifices, and o<g ref="char:EOLhyphen"/>ther Iewiſh ceremonies doth make for
+<pb n="44" facs="tcp:150817:30"/>the continuance of them. But they were all aboliſhed by his death, being ty<g ref="char:EOLhyphen"/>picall and ceremoniall; and ſo might the Sabbaoth too, being but ceremoni<g ref="char:EOLhyphen"/>all neyther.</p>
+               <p>To this obiection wee anſwer two waies.</p>
+               <list>
+                  <item>1 So much of the Sabbaoth day as was Iewiſh and ceremoniall, is ta<g ref="char:EOLhyphen"/>ken away; as namely the reſtraint of <hi rend="sup">a</hi> meate dreſsing, and <hi rend="sup">b</hi> kindling of fires: but as for the day of Reſt, ſerving vnto Gods worſhippe, it was not ceremoniall, but morall: and therefore was not taken a<g ref="char:EOLhyphen"/>way.</item>
+                  <item>2 The Sabbaoth day ſtoode vpon a ſurer ground then the whole ce<g ref="char:EOLhyphen"/>remoniall Law; namely, the pub<g ref="char:EOLhyphen"/>like worſhip of God, and the re<g ref="char:EOLhyphen"/>leefe of nature; which ends of the Sabboth are perpetuall: and there<g ref="char:EOLhyphen"/>fore the Sabboth day alſo muſt be perpetuall: neither could it with the ceremoniall Law be taken a<g ref="char:EOLhyphen"/>way. Now, that it was not taken away, appeareth by the practiſe
+<pb n="45" facs="tcp:150817:30"/>and writings. Firſt of all, the Apo<g ref="char:EOLhyphen"/>ſtles in generall, long after Chriſts death, and after they had received the holy Ghoſt, <hi>Acts</hi> 13.14, 42, 44, and 17.2. as hath been ſhewed in chap. 2. at the letter. <hi rend="sup">d</hi> Second<g ref="char:EOLhyphen"/>ly, of <hi>Iohn</hi> who wrote 97. yeares after Chriſts aſcention, and doth plainely avouch the continuance of it, by this new and honourable name, the Lords day: <hi>Apoc.</hi> 1.10. a name then beſt knowne to the Church.</item>
+               </list>
+               <p n="2">2 Obiection, The Sabbaoth was a memoriall to the Iewes, of their delive<g ref="char:EOLhyphen"/>rance out of <hi>Aegypt:</hi> 
+                  <hi rend="sup">c</hi> therefore that people being now gone, to whom that deliverance did belong, the Sabbaoth is alſo gone with them.</p>
+               <p>To this Obiection wee likewiſe an<g ref="char:EOLhyphen"/>ſwer two waies.</p>
+               <p n="1">1 That the Iewes having that rea<g ref="char:EOLhyphen"/>ſon to move them, beſides the other be<g ref="char:EOLhyphen"/>fore mentioned, were the more ſtraitly bound to the keeping of the Sabbaoth: but wee alſo are bound to keepe it as well as they.</p>
+               <p n="2">
+                  <pb n="46" facs="tcp:150817:31"/> 2 That it was required of all men long before thoſe reaſons were an<g ref="char:EOLhyphen"/>nexed vnto it: yea, for many hun<g ref="char:EOLhyphen"/>dreth yeares before the Iewes were a people: and therefore, though thoſe people be gone, yet the Sabbaoth is not gone with them.</p>
+               <p n="3">3 Obiection. <hi>Col.</hi> 2.16. Let no man condemne you in reſpect of an holy day, new Moone, or Sabbaoth. It ſee<g ref="char:EOLhyphen"/>meth by theſe words, that wee are ſet free from keeping any Sabbaoth at all.</p>
+               <p>Anſwer. The Apoſtle meaneth the time of the Iewiſh Sabbaoth, and other Iewiſh feaſts, which being typicall, the aboliſhing whereof, may by this place be iuſtly warranted: but yet the Sab<g ref="char:EOLhyphen"/>baoth is not aboliſhed with the Iewiſh day, ſith Chriſt hath warranted the whole Law, &amp; every iot or tittle of it to remaine.</p>
+               <p n="4">4 Obiection. The Sabbaoth it ſelfe is ceremoniall. <hi>Exo.</hi> 31.13. it is made a ſigne of our ſanctification.</p>
+               <p>Anſwer. There is ſome difference betweene a ſigne and a ſhadow: for ſha<g ref="char:EOLhyphen"/>dowes ſignifie things to come, but
+<pb n="47" facs="tcp:150817:31"/>ſignes, things alreadie come, as well as to come. The ſignes in <hi>Aegypt,</hi> were to<g ref="char:EOLhyphen"/>kens of Gods anger; the Sacraments are ſignes to confirme our faith. <hi>Rom.</hi> 4.10. and Chriſts miracles were ſignes to ſhew forth his glory. <hi>Ioh.</hi> 2.11. yet none of theſe were ſhadowes. So the Sabboth is a ſigne memorative, to put vs in mind of our ſanctificatio<g ref="char:cmbAbbrStroke">̄</g>, but yet no ſhadow. Indeede the ſtrict keeping of the Reſt by the Iewes commanded, <hi>Exod.</hi> 16.23. was a ſhadow as well as the ſeventh day: yet the Reſt commanded in the fourth precept, was not ſo, neither had it any ceremony annexed thereunto.</p>
+               <p n="5">5 Obiection. <hi>Gal.</hi> 4.10. <hi>Paul</hi> ſaith; Hee is afraid that hee hath beſtowed his labour vpon them in vaine: <hi>Becauſe they obſerve daies and times.</hi> Where the A<g ref="char:EOLhyphen"/>poſtle ſeemeth to diſallow ſet times.</p>
+               <p>An. The Apoſtle condemns not al ſet times, for he both kept ſet times himſelf with others. <hi>Act.</hi> 20.7. and appointed the firſt day in the weeke for collectio<g ref="char:cmbAbbrStroke">̄</g>s, both at <hi>Corinth,</hi> &amp; <hi>Galatia.</hi> 1. <hi>Cor.</hi> 16. But he ſpeakes of thoſe Iewiſh dais &amp; times, &amp; years, which he ſaith were ſhadowes
+<pb n="48" facs="tcp:150817:32"/>of things to come. <hi>Col.</hi> 2.17. and done away by the comming of Chriſt, who was the bodie of all thoſe ceremoniall ſhadowes; of which ſort were their Sabbaoths of yeares, as namely every ſeventh yeare, wherein the ground did reſt from tilling, and everie yeare of Iu<g ref="char:EOLhyphen"/>bile, wherein bond men went out free, and alienated poſseſsions returned a<g ref="char:EOLhyphen"/>gaine to the owners. <hi>Levit.</hi> 25.10. And next, their Sabbaoths of daies, which al<g ref="char:EOLhyphen"/>ſo were of two ſorts, ceremoniall, and morall. Of the firſt ſort, were the Paſſe<g ref="char:EOLhyphen"/>over, Penticoſt, the new Moone, and the feaſt of Tabernacles, which in <hi>Levit.</hi> 23. are called Sabbaoths: and alſo their morall Sabbaoth, as touching the time of it, and the ſtrictneſſe of keeping the reſt vpon it: and betweene theſe cere<g ref="char:EOLhyphen"/>moniall Sabbaoths, and the morall Sab<g ref="char:EOLhyphen"/>baoths, was great difference, as appea<g ref="char:EOLhyphen"/>reth <hi>Levit.</hi> 23.37, 38. <hi>Theſe are the feaſts of the Lord, which yee ſhall call holy Con<g ref="char:EOLhyphen"/>vocations, &amp;c. beſides the Sabbaoth of the Lord.</hi>
+               </p>
+               <p n="6">6 Obiection. <hi>Rom.</hi> 14.5, 6. The Apoſtle ſeemeth to make all daies alike,
+<pb n="49" facs="tcp:150817:32"/>either to be obſerved, or not obſer<g ref="char:EOLhyphen"/>ved.</p>
+               <p>Anſwer. He ſaith, that ſome men did count them ſo; but the Apoſtle ma<g ref="char:EOLhyphen"/>keth no ſuch account: and the queſtion moved there, is not betweene the Iew and the Gentile, (as ſome thinke) but be<g ref="char:EOLhyphen"/>tweene the ſtronger Chriſtian, and the weaker. chap. 5.1. The Stronger eſtee<g ref="char:EOLhyphen"/>meth one day above another, which appeareth, in that there was a day, both commanded, received, and approved in the Church; then the weaker is hee that holds every day alike: So that if men count all daies alike, it is an argument of their weakeneſſe, whoſe infirmitie, as yet muſt be borne with, ſo long as it may be for their good to edification. chap. 15.2. But if any ſhall obſtinately, and with a high hand, hold and defend, that the Lords day, is but as another day, we are to rebuke them ſharpely, that others may feare.</p>
+               <p>Obiections of the ſecond ſort are as followeth.</p>
+               <p n="1">1 Obiection. If it be thus ſtrait, as that we muſt reſt in thought, word, and
+<pb n="50" facs="tcp:150817:33"/>deede, who can keepe it or abide it? But we can perfectly fulfill the Law; ſo ſaith the Counſell of <hi>Trent. Seſſ.</hi> 6. cha. 18. Therefore the Sabbaoth day is not ſo ſtraitly to be obſerved.</p>
+               <p>To this obiection we anſwer three waies.</p>
+               <p n="1">1 That no man can perfectly fulfill the Law of God; and yet every one is charged to keepe it perfectly, purely, and perpetually; becauſe it is all mens dutie ſo to doe.</p>
+               <p n="2">2 The harder it is, the more wee muſt ſtrive to keepe it. <hi>Luke</hi> 13.24.</p>
+               <p n="3">3 By this ſtrait and exquiſite rule of reſting, we ſee: firſt, our deſerved miſe<g ref="char:EOLhyphen"/>rie, by the infinite breaches of this Commandement, beſides all the reſt of our ſinnes. Secondly, we ſee Gods vn<g ref="char:EOLhyphen"/>deſerved mercie in Chriſt, who hath both fulfilled the Law for vs, as alſo freed vs from the curſe of the Law, and purchaſed for vs, the bleſſedneſſe of heaven. Of whoſe benefites, we are aſ<g ref="char:EOLhyphen"/>ſured to be partakers, when we are per<g ref="char:EOLhyphen"/>ſwaded of the forgiveneſſe of our ſins, by him alone. 2. When we have pow<g ref="char:EOLhyphen"/>er
+<pb n="51" facs="tcp:150817:33"/>from him, to die vnto ſinne, and live vnto righteouſneſſe, in ſome mea<g ref="char:EOLhyphen"/>ſure, as well in this Commandement, as in any other.</p>
+               <p n="2">2 Obiection. The world is hard (ſay poore men) we have a great charge of wife and children, and little earnings, we may not ſtarve, wee hope God will not be againſt the earning of a penny or two on the Sabbaoth day, &amp;c.</p>
+               <p>To this Obiection a double anſwer may be framed.</p>
+               <p n="1">1 We cannot ſerve God, vnleſſe we caſt away thoſe worldly and diſtruſt<g ref="char:EOLhyphen"/>full cares: For Sathan would make men believe, that if they ſerve God, they ſhall famiſh, or beg, &amp;c.</p>
+               <p n="2">2 We muſt have faith to beleeve:
+<list>
+                     <item>1 The Generall promiſes of <hi rend="sup">d</hi> God.</item>
+                     <item>2 The ſpeciall promiſe that is made to the ſtrict keeping of the <hi rend="sup">e</hi> Sabbaoth. Where alſo this verie doubt is taken away.</item>
+                  </list>
+               </p>
+               <p n="3">3 Obiection. Our ſervants muſt have ſome time of recreation, they worke hard all the weeke, &amp;c.</p>
+               <pb n="52" facs="tcp:150817:34"/>
+               <p> Anſwer. It is true indeede, and ſome recreation ſometime, is almoſt as neceſ<g ref="char:EOLhyphen"/>ſarie, as their meate, drinke, and ſleepe; but then be bold of thinke owne, and not of the Lords, allow it them in the ſixe daies, and not vpon the Lords day.</p>
+               <p n="4">4 Obiection. He that is bound (ſaith the ſervant, and hee that liveth at the commandement of another) muſt obey, if we doe not, we ſhall loſe our maiſters good will, and get their diſpleaſure.</p>
+               <p>Anſwer. If thou be a ſervant fearing God, and deſirous in truth of heart to ſanctifie the Lords day, then doe this:</p>
+               <p n="1">1 Conſider with thy ſelfe, whether it be a worke of neceſsitie that thou art commanded to doe: if it be, then thou muſt obey thy maſter, if not, thou muſt take another courſe. But thou wilt ſay perhaps, that thou ſeeſt no neceſsitie in that thou art commanded. What then? There may be a neceſsitie apparant to thy maſter, and not to thee: neither is he bound to give thee an account of all his purpoſes and buſineſſe; as for exam<g ref="char:EOLhyphen"/>ple: thy maiſter commaundeth thee to carry a letter for him, or to fetch home
+<pb n="53" facs="tcp:150817:34"/>and make ready his horſe, or to goe with him abroad, or the like; thou not knowing the matter, nor occaſions of thoſe thy maiſters buſineſſe, art bound to obey him, not demanding a reaſon of his ſo doing, but conceiving, both in reverence, and charity of thy maſters doings, that if he ſaw not ſome great ne<g ref="char:EOLhyphen"/>ceſsitie in the matter, he would not ſo imploy thee; for charitie dooth ever iudge the beſt; where it knoweth no e<g ref="char:EOLhyphen"/>vill, it thinketh no evill. 1 <hi>Cor.</hi> 13.5.</p>
+               <p>But if thou be aſſured that it is no worke of neceſsitie, which thy maiſter would ſet thee about, when thou ſhoul<g ref="char:EOLhyphen"/>deſt reſt vnto the Lord, but that it com<g ref="char:EOLhyphen"/>meth onely of a greedy deſire, to get the world, &amp;c. as to plow, to carry wares about the towne, to keepe open the ſhop, to ſet rackes, and to worke vpon clothes vſually vpon the Lords day, or the like, whereof others can iudge as well as thou, then thy courſe muſt be this.</p>
+               <p n="1">1 In all dutifull and reverent ſort, on Gods behalfe, expoſtulate and rea<g ref="char:EOLhyphen"/>ſon the matter with thy maiſter, and in<g ref="char:EOLhyphen"/>treate
+<pb n="54" facs="tcp:150817:35"/>him, not to compell thee againſt thy conſcience, to violate the Lords Commandement, but to give thee leave to keepe the holy Reſt; as the Iſraelites craved leave of King <hi>Pharao,</hi> to goe and ſerve the Lord. And ſurely, if thy mai<g ref="char:EOLhyphen"/>ſter hath any feare of God at all in him, or any ſparke of deſire to pleaſe the Lord, and hath not ſeared his conſci<g ref="char:EOLhyphen"/>ence, as it were with a hote yron, or ſold himſelfe to worke wickedneſſe in the ſight of God, hee cannot chooſe but grant thee thy requeſt.</p>
+               <p n="2">2 If thy maiſter be ſo hard hearted, and voide of religion, that he will not heare thee in thine humble ſuite, then ſo<g ref="char:EOLhyphen"/>licite the Magiſtrate and the Miniſter, and make them iudges of thy cauſe, and ſee, if by their meanes, thy maiſt ermay be perſwaded to let thee ſerve the Lord, in keeping the holy Reſt: and ceaſe not thou all this while to pray vnto God, that he would, by his ſpirit, move and turne thy maſters minde.</p>
+               <p n="3">3 If the Magiſtrate be of thy mai<g ref="char:EOLhyphen"/>ſters minde, (as many are, that have as little religion, as who have leaſt) ſo that
+<pb n="55" facs="tcp:150817:35"/>thou canſt not be releeved at his hands, then I thinke thou oughteſt to venture thy maiſters diſpleaſure, or elſe change thy ſervice, knowing that it is better to obey <hi rend="sup">f</hi> God, than men. <hi>Actes</hi> 4.19. Therefore, ſeeing as God commandeth thee to keepe the holy Reſt, and thy maiſter commandeth thee to breake it, thou muſt in this caſe obey God, rather then thy maſter. For the keeping and ſanctifying of the Lords Sabbaoth, is no matter of circumſtance and ceremo<g ref="char:EOLhyphen"/>ny, (as ſome would have it:) and there<g ref="char:EOLhyphen"/>fore, to give place vnto the obedience of maſters, being a matter of ſubſtance in the fift Commandement: but it is al<g ref="char:EOLhyphen"/>ſo a matter of the ſubſtance of Gods worſhip and ſervice, vnto which, both thou and thy maiſters will muſt give place. And in this caſe, the godly min<g ref="char:EOLhyphen"/>ded ſervant is not ſo much to ſtand vp<g ref="char:EOLhyphen"/>pon tearmes, of loſing, or inioying his maſters good will or ſervice, but rather, to feare the Lord, whoſe ſervice is the beſt ſervice, and freedome it ſelfe, and whoſe diſpleaſure is more intollerable, than the weight of all the world: ney<g ref="char:EOLhyphen"/>ther
+<pb n="56" facs="tcp:150817:36"/>will he ever forſake thoſe that truſt in him.</p>
+               <p>Reply. But where ſhall I become, if my maſter turne me out of ſervice?</p>
+               <p>Anſwer. Comfort thy ſelfe with the anſwer of <hi>Abraham</hi> to his Sonne <hi>Iſaac;</hi>
+                  <note place="margin">Gen. 22.8.</note> God will provide a ſacrifice my Sonne: ſo God will provide a ſervice for his ſervants: and indeede, God did provide a ſacrifice for <hi>Abraham,</hi> though he knew not of it till it came;
+<note place="margin">Verſ. 14.</note> whereupon the name of that place is called <hi>God will pro<g ref="char:EOLhyphen"/>vide,</hi> to this day: and ſuch a place hath God in ſtore for all that in truth of hart obey his will, as <hi>Abraham</hi> did.</p>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> Exod. 16.23. <hi>Bake that to day which ye will bake, and ſeeth that to day which yee will ſeeth, and all that remaineth, lay it vp for you till the morning. &amp;c.</hi>
+                  </p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> Exod. 35.3. <hi>Yee ſhall kindle no fire throughout all your habitations, vpon the Sab<g ref="char:EOLhyphen"/>baoth day.</hi>
+                  </p>
+                  <p n="c">
+                     <hi rend="sup">c</hi> Deut. 5.15. <hi>Remember that thou wert a ſtranger in the land of</hi> Aegypt, <hi>and that
+<pb n="57" facs="tcp:150817:36"/>the Lord thy God, brought thee out from thence by a mighty hand, and a ſtretched out arme. Therefore the Lord thy God comman<g ref="char:EOLhyphen"/>deth thee to obſerve the Sabbaoth day.</hi>
+                  </p>
+                  <p n="d">
+                     <hi rend="sup">d</hi> 1. Tim. 4.8. <hi>Godlineſſe is profitable vnto all things, which hath the promiſe of this life preſent, and of that that is to come.</hi> Matt. 6.33. <hi>Firſt ſeeke yee the Kingdome of God, and his righteouſneſſe, and all other things ſhall be miniſtred vnto you.</hi>
+                  </p>
+                  <p>Levit. 25.18. <hi>Yee ſhall obey mine ordi<g ref="char:EOLhyphen"/>nances, and keepe my lawes, and doe them, and ye ſhall dwell in the land in ſafetie.</hi> 19. <hi>And the land ſhall give her fruit, and yee ſhall eate your fill, aad dwell therein in ſafetie.</hi>
+                  </p>
+                  <p n="e">
+                     <hi rend="sup">e</hi> Levit. 25.20. <hi>And if ye ſhall ſay; what ſhall we eate the ſeventh yeare, for we ſhall not ſowe, nor gather in our increaſe?</hi> 22. <hi>I will ſend my bleſsing vppon you in the ſixt yeare, and it ſhall bring forth fruit for three yeares.</hi> 23. <hi>And ye ſhall ſowe the eight yeare, and eate of the old fruit vntill the ninth yeare: till the fruit thereof come, ye ſhall eate the olde.</hi>
+                  </p>
+                  <p n="f">
+                     <hi rend="sup">f</hi> Acts 4.19. <hi>But</hi> Peter <hi>and</hi> Iohn <hi>an<g ref="char:EOLhyphen"/>ſwered vnto them, and ſaid; Whether it be right in the ſight of God, to obey you rather
+<pb n="58" facs="tcp:150817:37"/>than God, iudge ye.</hi> 20. <hi>For we cannot but ſpeak the things which we have ſeen &amp; heard.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <head>The ſecond part of the fourth Commaunde<g ref="char:EOLhyphen"/>ment, requireth the ſanctifying of the ſe<g ref="char:EOLhyphen"/>venth daies reſt.</head>
+            <div n="8" type="chapter">
+               <head>Of the ſanctifying of the Sabboth in generall.</head>
+               <head type="sub">CHAP. VIII.</head>
+               <p>
+                  <seg rend="decorInit">C</seg>Oncerning the ſanctification of the Sabbaoth day, foure things are to be co<g ref="char:cmbAbbrStroke">̄</g>ſidered of.
+<list>
+                     <item>1 Of the meaning of the word <hi>San<g ref="char:EOLhyphen"/>ctifie,</hi> which in Scripture is applied.
+<list>
+                           <item>1. To ſuch things as are ſepara<g ref="char:EOLhyphen"/>ted from common and profane vſes, and conſecrated to vſes <hi rend="sup">a</hi> holy and religious.</item>
+                           <item>2 To all other things which are made lawfull for beleevers to vſe to their owne benefite, by the rule of the <hi rend="sup">b</hi> word and prayer.</item>
+                        </list>
+                     </item>
+                     <item>2 That the ſanctification of the Sab<g ref="char:EOLhyphen"/>baoth, ſtandeth in two points.
+<pb n="59" facs="tcp:150817:37"/>
+                        <list>
+                           <item>1 In not vſing it about the affaires of this life, eyther for carnall pleaſure, or profit.</item>
+                           <item>2 In conſecrating it generally to holy vſes: for the keeping of a Reſt, without a ſanctification of it to holy exerciſes, is but to re<g ref="char:EOLhyphen"/>taine a ſhadow without a body, ſpecially to Gods worſhip and ſervice, and to nothing elſe: for,
+<list>
+                                 <item>1 This is the law of things con<g ref="char:EOLhyphen"/>ſecrated to the Lord, that they may not be imployed to any other vſe but the Lords.</item>
+                                 <item>2 For this cauſe it is called a ho<g ref="char:EOLhyphen"/>ly Sabbaoth, and the Sabboth of the Lord; not onely becauſe the Lord did ordaine it, but cheefely, becauſe it was or<g ref="char:EOLhyphen"/>dained to the Lords vſe.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>3 By what meanes the Sabbaoth day muſt be ſanctified, and thoſe meanes are two fold.
+<list>
+                           <item>1 By aſſembling our ſelves toge<g ref="char:EOLhyphen"/>ther in Gods houſe or <hi rend="sup">c</hi> ſa<g ref="char:cmbAbbrStroke">̄</g>ctuary.</item>
+                           <item>2 By doing ſuch duties as God in his Sanctuarie ſhall by his
+<pb n="60" facs="tcp:150817:38"/>miniſters teach vs: which du<g ref="char:EOLhyphen"/>ties are two fold.</item>
+                        </list>
+                        <list>
+                           <item>1 Publike, and thoſe be alſo two fold, <hi>viz.</hi> exerciſes,
+<list>
+                                 <item>1 Of pietie and religion.</item>
+                                 <item>2 Of charitie and compaſsion.</item>
+                              </list>
+                           </item>
+                           <item>2 Private, <hi>viz.</hi> religious exerci<g ref="char:EOLhyphen"/>ſes, to be practiſed when the congregation is diſſolved: &amp; great reaſon, for,
+<list>
+                                 <item>1 It is againſt reaſon, to think a little peece of the Sabboth day enough for Gods ſer<g ref="char:EOLhyphen"/>vice, and to beſtow the reſt of the day at our owne plea<g ref="char:EOLhyphen"/>ſure.</item>
+                                 <item>2 It is not ſimply ſaid; <hi>Remem<g ref="char:EOLhyphen"/>ber</hi> the Sabbaoth, but the Sabbaoth day; that is, the whole day, to ſanctifie it.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>4 By whom it muſt be ſanctified: <hi>viz.</hi> by all, both governours, and all that bee in ſubiection. See chap. 14.</item>
+                  </list>
+               </p>
+               <div type="proofs">
+                  <pb n="61" facs="tcp:150817:38"/>
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> Exod. 29.44. <hi>And I will ſanctifie the Tabernacle of the Congregation, and the Al<g ref="char:EOLhyphen"/>tar: I will ſanctifie alſo</hi> Aaron, <hi>and his ſonnes to be my Priests.</hi> Exod. 40.13. <hi>And thou ſhalt put vpon</hi> Aaron, <hi>the holy garments, and ſhalt anoint him and ſanctifie him, that he may miniſter to me in the Priests office.</hi>
+                  </p>
+                  <p>Levit. 27.28. <hi>Nothing ſeperate from the commen vſe, that a man doth ſeperate vn<g ref="char:EOLhyphen"/>to the Lord of all that he hath, (whether it be man, or beaſt, or land of his inheritance) may be ſold nor redeemed, for every thing ſe<g ref="char:EOLhyphen"/>perate from the common vſe, is moſt holy vnto the Lord, verſe</hi> 30. <hi>Alſo, all the tithe of the land, of the ſeede of the ground, of the fruit of the trees, is the Lords, it is holy to the Lord.</hi>
+                  </p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> 1. Timoth. 4.4. <hi>Every creature of God is good, and nothing to be refuſed, if it be received with thanks giving.</hi> 5. <hi>For it is ſan<g ref="char:EOLhyphen"/>ctifyed by the word of God and prayer.</hi>
+                  </p>
+                  <p n="c">
+                     <hi rend="sup">c</hi> Levit. 19.30. <hi>Ye ſhall keepe my Sab<g ref="char:EOLhyphen"/>baoth, and reverence my ſanctuarie. And chap.</hi> 23.3. <hi>In the ſeventh day ſhall be the Sabbaoth of Reſt, an holy Conuocation, (or Aſſembly.)</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="62" facs="tcp:150817:39"/>
+               <head>Of the publique duties of Pietie.</head>
+               <head type="sub">CHAP. IX.</head>
+               <p>COncerning the publique duties of Pietie and Religion, which are to be practiſed in the open aſſem<g ref="char:EOLhyphen"/>blies of the Church, we are to ſee three things.</p>
+               <list>
+                  <item>1 How it can be proved, that God will be ſerved by publike aſſem<g ref="char:EOLhyphen"/>blies.</item>
+                  <item>2 Why hee will be worſhipped in publike aſſemblies.</item>
+                  <item>3 How wee muſt frequent the pub<g ref="char:EOLhyphen"/>like exerciſes of the Church.</item>
+               </list>
+               <p>Of the firſt.</p>
+               <p>That God will be ſerved in the pub<g ref="char:EOLhyphen"/>like aſſemblies of his people, may be proved two waies.</p>
+               <list>
+                  <item>1 By the Commandements of God in the holy Scripture, requiring the <hi rend="sup">a</hi> ſame.</item>
+                  <item>2 By the practiſe of Churches. Firſt, of the Iewes after the <hi rend="sup">b</hi> captivitie. Secondly, of the <hi rend="sup">c</hi> Chriſtians.</item>
+               </list>
+               <pb n="63" facs="tcp:150817:39"/>
+               <p> Of the ſecond.</p>
+               <p>Why God will be worſhipped in the publique aſſemblies of his people, there may be many reaſons yeelded, and principally theſe five which fol<g ref="char:EOLhyphen"/>low.
+<list>
+                     <item>1 That the Church may be diſcer<g ref="char:EOLhyphen"/>ned a farre off from the Synagogs of idolaters, and conventicles of Schiſmatikes: for which cauſe, the viſible Church of God is called in Scripture;
+<list>
+                           <item>1 A Mountaine<hi rend="sup">d</hi> exalted.</item>
+                           <item>2 A <hi rend="sup">e</hi> Holy mountaine.</item>
+                        </list>
+                     </item>
+                     <item>2 That Gods diſpearſed people ſpy<g ref="char:EOLhyphen"/>ing the Church a farre off, might repaire togither vnto <hi rend="sup">f</hi> it.</item>
+                     <item>3 That the wicked, which through contempt, ſhould not ioyne them<g ref="char:EOLhyphen"/>ſelves vnto the Church, or throgh Apoſtaſie ſhould revolt from it, might be left without all excuſe, it being ſo viſible vnto them.</item>
+                     <item>4 To ſhew that we muſt be no more aſhamed of the true ſervice of God, then we are of that which we do o<g ref="char:EOLhyphen"/>penly, and in the view of all the world.</item>
+                     <pb n="64" facs="tcp:150817:40"/>
+                     <item>5 To repreſent vnto vs, our vnitie with Chriſt, and of one with ano<g ref="char:EOLhyphen"/>ther, in the <hi rend="sup">g</hi> Goſpell of Chriſt.</item>
+                  </list>
+               </p>
+               <p>Therefore they doe erre which hold:</p>
+               <p n="1">1 That the publike exerciſes of reli<g ref="char:EOLhyphen"/>gion are needeleſſe, which Chriſt did vſually <hi rend="sup">h</hi> viſite, and had not ſo much neede of them as we have: which <hi>Da<g ref="char:EOLhyphen"/>vid</hi> alſo made ſo <hi rend="sup">i</hi> ſpeciall account of, and for want whereof, he was ſo <hi rend="sup">k</hi> ex<g ref="char:EOLhyphen"/>ceedingly greeved.</p>
+               <p n="2">2 That it is not fit for great perſons, to goe to the common Aſſemblies of the Church: as if any were better than our Saviour Chriſt, or the Prophet <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> who was alſo a Prince, as well as a Prophet.</p>
+               <p>Of the Third.</p>
+               <p>How we muſt frequent the publike exerciſes alſo, is a point neceſſary to be conſidered. For it is not enough, as ma<g ref="char:EOLhyphen"/>ny imagine, to come to ſome part of them onely, nor to continue there from the beginning, to the ending: but wee muſt come at the beginning with the firſt, and tarry by them with the laſt, and not to depart till all be <hi rend="sup">l</hi> finiſhed,
+<pb n="65" facs="tcp:150817:40"/>(except neceſsitie doth hinder vs.)</p>
+               <p>Againe, we muſt take heede how we come, <hi rend="sup">m</hi> before we doe come: and how we heare, when <hi rend="sup">n</hi> we are come: <hi>Luke</hi> 8.18. And therefore we muſt come.</p>
+               <p>Not as moſt doe, onely outwardly, and cuſtomably; but as the beſt doe, in<g ref="char:EOLhyphen"/>wardly alſo, and of <hi rend="sup">o</hi> conſcience, and ſo, as we may profite by our hearing, &amp;c. in the waies of godlineſſe and <hi rend="sup">p</hi> ſalva<g ref="char:EOLhyphen"/>tion.</p>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <list>
+                     <item>
+                        <hi rend="sup">a</hi> Pſal. 107.32 <hi>And let them exalt him in the Congregation of the people, and praiſe him in the aſſembly of the Elders.</hi> Nu. 28.9. <hi>But on the Sabbaoth day, ye ſhall offer two lambes of a yeare old, without ſpot, and two tenth deales of fine flower, for a meale offering, mingled with oyle, and the drinke offe<g ref="char:EOLhyphen"/>ring thereof.</hi> 10. <hi>This is the burnt offering of every Sabbaoth, beſides the continuall burnt offering, &amp;c. [In which laſt place, ſome things is expreſſed, and ſome things are vnderſtood: there is expreſſed the doubling of their ſacri<g ref="char:EOLhyphen"/>fices, in the publike ſervice of God. The
+<pb n="66" facs="tcp:150817:41"/>things vnderſtoode are three. Firſt, the word which giveth life to the ſacrifice. Secondly, prayer, which made their ſacrifices accepta<g ref="char:EOLhyphen"/>ble. Thirdly, confeſſion of ſinnes, without which, they could be aſſured of the forgive<g ref="char:EOLhyphen"/>neſſe of them.]</hi>
+                     </item>
+                     <item>
+                        <hi rend="sup">b</hi> Nehe. 8.1. <hi>And all the people aſſem<g ref="char:EOLhyphen"/>bled themſelves together in the ſtreete, be<g ref="char:EOLhyphen"/>fore the Water-gate, and they ſpake vnto</hi> Ezra <hi>the Scribe, that bee would bring the booke of the Law of</hi> Moſes, <hi>which the Lord had commanded to</hi> Iſrael.</item>
+                     <item>
+                        <hi rend="sup">c</hi> Acts 13.14. <hi>But when they departed from</hi> Perga, <hi>they came to</hi> Antiochia, <hi>a Citie of</hi> Piſidia, <hi>and went into the Synagog on the Sabbaoth day, and ſate downe.</hi> 15. <hi>And after the lecture of the Law, the Rulers ſent vnto them, &amp;c.</hi>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 17.1. <hi>They came to</hi> Theſſalo<g ref="char:EOLhyphen"/>nica, <hi>where was a Synagogue of the Iewes: and</hi> Paul, <hi>as his manner was, went in vnto them, and three Sabbaoth daies diſputed with them, &amp;c. and chap.</hi> 18.4. <hi>And he diſputed in the Synagogue every Sabbaoth day, and exhorted the Iewes, and the Craecians, and chap.</hi> 20.7. <hi>And the first day of the weeke, the Diſciples being come together, to breake
+<pb n="67" facs="tcp:150817:41"/>bread,</hi> Paul <hi>preached vnto them, &amp;c. [In which places alſo, vnder one kinde, is noted the whole action of the publike ſervice of God.]</hi>
+                     </item>
+                     <item>
+                        <hi rend="sup">d</hi> Eſa. 2.2. <hi>It ſhall be in the laſt daies, that the mountaine of the houſe of the Lord, ſhall be prepared in the top of the mountaines, and ſhall be exalted above the hills.</hi> 
+                        <hi rend="sup">e</hi> Pſa. 2.6. <hi>I have ſet my King vpon</hi> Sion, <hi>my holy mountaine.</hi>
+                     </item>
+                     <item>
+                        <hi rend="sup">f</hi> Eſa, 2.2. <hi>And all Nations ſhall flow vn<g ref="char:EOLhyphen"/>to it.</hi>
+                     </item>
+                     <item>Pſal. 122.1. <hi>I reioyced when they ſaid vnto me; Come, let vs goe vnto the houſe of the Lord.</hi>
+                     </item>
+                     <item>
+                        <hi rend="sup">g</hi> Acts 4.32. <hi>And the multitude of them that beleeved, were of one heart, and of one ſoule.</hi>
+                     </item>
+                     <item>
+                        <hi rend="sup">h</hi> Luke 4.16. <hi>And he came to</hi> Naza<g ref="char:EOLhyphen"/>reth, <hi>&amp;c. and as his cuſtome was, went into the Synagogue on the Sabbaoth day, &amp;c.</hi>
+                     </item>
+                     <item>
+                        <hi rend="sup">i</hi> Pſal. 84.1. <hi>O Lord of Hostes, how ami<g ref="char:EOLhyphen"/>able are thy Tabernacles! verſe</hi> 10. <hi>For a day in thy Courts, is better then a thouſand elſewhere: I had rather be a doore keeper in the houſe of my God, then to dwell in the ta<g ref="char:EOLhyphen"/>bernacles of wickedneſſe.</hi>
+                     </item>
+                     <pb n="68" facs="tcp:150817:42"/>
+                     <item>
+                        <hi rend="sup">k</hi> Pſal 42.2. <hi>My ſoule thirſteth for God, even for the living God: when ſhall I come and appeare before the preſence of God?</hi> 3. <hi>My teares have beene my meate day and night, while they daily ſay vnto me; Where is thy God? verſe.</hi> 4. <hi>When I remembred theſe things, I powred out my very heart, becauſe I had gone with the multitude, and led them into the houſe of God, with the voyce of ſing<g ref="char:EOLhyphen"/>ing, and praiſe, as a multitude that keepeth a feaſt.</hi>
+                     </item>
+                     <item>
+                        <hi rend="sup">l</hi> Ezech. 46.10. <hi>And the Prince ſhall be in the middeſt of them, he ſhell goe in when they goe in, and when they goe forth, they ſhall goe forth together.</hi>
+                     </item>
+                     <item>
+                        <hi rend="sup">m</hi> Eccleſ. 4.17. <hi>Take heede to thy foote, when thou entreſt into the houſe of God.</hi>
+                     </item>
+                     <item>
+                        <hi rend="sup">n</hi> Luke 8.18. <hi>Take heede how yee heare.</hi>
+                     </item>
+                     <item>
+                        <hi rend="sup">o</hi> Iohn 4.24. <hi>They that worſhippe him, muſt worſhip him in ſpirit and truth.</hi>
+                     </item>
+                     <item>
+                        <hi rend="sup">p</hi> 1. Cor. 11.17. <hi>Now in this that I de<g ref="char:EOLhyphen"/>clare, I praiſe you not, that ye come together, not with profite, but with hurt. And</hi> 14 26. <hi>What is to be done then brethren? when yee come together, as every one of you hath a pſalme, or hath doctrine, or hath a tongue,
+<pb n="69" facs="tcp:150817:42"/>or revelation, or interpretation: let all things be done vnto edifying. verſe</hi> 31. <hi>For ye may all prophecy one by one, that all may learn, and all may have comfort.</hi>
+                     </item>
+                  </list>
+               </div>
+            </div>
+            <div n="10" type="chapter">
+               <head>Of the publike duties of Love and Compaſsion.</head>
+               <head type="sub">CHAP. X.</head>
+               <p>COncerning works of mercy, which make for the ſanctification of the Sabbaoth day, two things in generall are to be conſidered of.</p>
+               <p n="1">1 What thoſe workes are.</p>
+               <p n="2">2 After what manner they muſt be done.</p>
+               <p>For the firſt wee are to know, that works of Charitie are of two ſorts.</p>
+               <p n="1">1 Corporall, and ſuch as tend to the comfort of mens bodies.</p>
+               <p n="2">2 Spirituall, belonging to the ſoule.</p>
+               <p>Workes of mercie, tending to the comfort and releeving of the bodie, are
+<pb n="70" facs="tcp:150817:43"/>to be put in execution.</p>
+               <p n="1">1 By the Collectours for the poore.</p>
+               <p n="2">2 By other Chriſtians.</p>
+               <p>To the Collectours be<g ref="char:EOLhyphen"/>long two things.
+<list>
+                     <item>Collection.</item>
+                     <item>Diſtribution.</item>
+                  </list>
+               </p>
+               <p>Concerning the Collectours dutie, two circumſtances are wiſely to be weighed.</p>
+               <p n="1">1 The time when to make them.</p>
+               <p n="2">2 The perſons for whom to make collection, &amp;c.</p>
+               <p>The time muſt be fit and conveni<g ref="char:EOLhyphen"/>ent, and that is; the Sabbaoth day, which is appointed partly to that <hi rend="sup">a</hi> end.</p>
+               <list>
+                  <item>1 Becauſe then the word is prea<g ref="char:EOLhyphen"/>ched, which is powerfull to ſtirre vp mens mindes to charity.</item>
+                  <item>2 Becauſe then moſt mercies in Chriſt, are offered vnto vs, which alſo ſhould not a little <hi rend="sup">b</hi> move vs.</item>
+               </list>
+               <p>Not the time of divine ſervice, be<g ref="char:EOLhyphen"/>cauſe:
+<list>
+                     <item>1 So to doe, is to bring in a confu<g ref="char:EOLhyphen"/>ſion of divers actions, of which confuſion, God is not the <hi rend="sup">c</hi> au<g ref="char:EOLhyphen"/>thor.</item>
+                     <item>2 It is againſt order and decencie,
+<pb n="71" facs="tcp:150817:43"/>which muſt be in the <hi rend="sup">d</hi> Church of God.</item>
+                  </list>
+               </p>
+               <p>So much for the time when to col<g ref="char:EOLhyphen"/>lect and diſtribute. Now the perſons for whom, and vnto whom the Collectours are to gather and diſtribute, are,
+<list>
+                     <item>1 Of our owne Congregation.</item>
+                     <item>2 Of others, generally for all that neede, ſpecially for the godly poore, that are of the <hi rend="sup">e</hi> houſhold of faith.</item>
+                  </list>
+               </p>
+               <p>So much for the Collectours duties. Now workes of mercie, for the comfort of mens bodies, are to be done alſo vp<g ref="char:EOLhyphen"/>pon the Sabbaoth day, by other Chri<g ref="char:EOLhyphen"/>ſtians, as well as by the Collectours, and that two waies.</p>
+               <list>
+                  <item>1 By themſelves, if they be able, or may conveniently, by reaſon of their place and calling.</item>
+                  <item>2 By others for them, (if they cannot themſelves.)</item>
+               </list>
+               <p>Thoſe workes which they are to doe by themſelves, are cheefely two.</p>
+               <list>
+                  <item>1 To viſite the poore, whether ſuch poore as are at libertie, yet in miſe<g ref="char:EOLhyphen"/>rie, by reaſon of ſickneſſe, trouble,
+<pb n="72" facs="tcp:150817:44"/>povertie, &amp;c. <hi>Math.</hi> 25.35. &amp;c. or in priſon, and that eſpecially by going vnto them; becauſe, (as the ſight of the wounded man, much moved the <hi rend="sup">f</hi> Samaritane to pittie) ſo it will move Chriſtians much, when they ſhall ſee their ruinous houſes, their hard lodgings, their naked bodies, their thinne diet, their cold yrons, their lothſome dungeons, their extreame tor<g ref="char:EOLhyphen"/>ments, &amp;c.</item>
+                  <item>2 To releeve the fore ſaid poore, and that two waies.
+<list>
+                        <item>1 By words of
+<list>
+                              <item>
+                                 <hi rend="sup">g</hi> Conſolation.</item>
+                              <item>Inſtruction.</item>
+                           </list>
+                        </item>
+                        <item>2 By deedes of mercie, that is; by feeding their bellies, clothing their backes, curing their ſores, perſwading with their creditors, <hi rend="sup">h</hi> and ſuch like.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>So much for corporall works of mer<g ref="char:EOLhyphen"/>cie. Now of ſpirituall compaſsion, which is to be ſhewed vnto the ſoules of men, and that conſiſteth cheefely, in teaching the ignorant, in admoniſhing the vnruly, in bringing home the ſtray,
+<pb n="73" facs="tcp:150817:44"/>in comforting the broken hearted, in ſtrengthning the weake, in encoura<g ref="char:EOLhyphen"/>ging the well doers, &amp;c.</p>
+               <p>Concerning which mercie ſhewed to mens ſoules, two things are to be no<g ref="char:EOLhyphen"/>ted.</p>
+               <list>
+                  <item>1 That it is the greateſt mercie, and that for three cauſes.
+<list>
+                        <item>1 Becauſe it is more excellent then the body.</item>
+                        <item>2 Becauſe the ſoules wants, are more generall then the bodies.</item>
+                        <item>3 Becauſe the ſoules wants are more dangerous, and leſſe felt.</item>
+                     </list>
+                  </item>
+                  <item>2 That all thoſe which by thoſe meanes aforeſaid, have converted any, are thus greatly honoured, that they are,
+<list>
+                        <item>1 Reckoned of, as of men that have ſaved <hi rend="sup">i</hi> ſoules.</item>
+                        <item>2 Promiſed to ſhine as the Sunne in the firmament; that is, to be rewarded with <hi rend="sup">k</hi> great glorie.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>So much of the workes of Compaſ<g ref="char:EOLhyphen"/>ſion, as touching the matter of them. Now the manner of doing them is to be conſidered, and that muſt be ſuch,
+<pb n="74" facs="tcp:150817:45"/>as that our works may be,
+<list>
+                     <item>1 Profitable to men, and hurtfull to none.</item>
+                     <item>2 Pleaſing to God.</item>
+                  </list>
+               </p>
+               <p>That our workes may be profitable to men, and hurtfull to none, wee muſt in dooing of them, take heede of ſixe things.</p>
+               <p n="1">1 That we give of our owne, and not other mens <hi rend="sup">l</hi> goods.</p>
+               <p n="2">2 That we give ſpeedily, and with<g ref="char:EOLhyphen"/>out delay.</p>
+               <p n="3">3 That we give liberal<g ref="char:EOLhyphen"/>ly, as we are able, without
+<list>
+                     <item>nigardlines,</item>
+                     <item>prodigality.</item>
+                  </list>
+               </p>
+               <p n="4">4 That we give of a loving affecti<g ref="char:EOLhyphen"/>on, hartily.</p>
+               <p n="5">5 That it be doone cheerefully, without <hi rend="sup">m</hi> grudging.</p>
+               <p n="6">6 That it be willingly, without com<g ref="char:EOLhyphen"/>pulſion.</p>
+               <p>That our workes may be plea<g ref="char:EOLhyphen"/>ſing to God, there is required a minde,
+<list>
+                     <item>1 Purged from
+<list>
+                           <item>hypocriſie, <hi rend="sup">n</hi> and vaine glory.</item>
+                           <item>opinion of our owne <hi rend="sup">o</hi> merit.</item>
+                        </list>
+                     </item>
+                     <pb n="75" facs="tcp:150817:45"/>
+                     <item>2 Sancti<g ref="char:EOLhyphen"/>fied with
+<list>
+                           <item>1 A holy deſire, to glori<g ref="char:EOLhyphen"/>fie God in the obedi<g ref="char:EOLhyphen"/>ence of that which hee requireth, and to win o<g ref="char:EOLhyphen"/>thers to the like.</item>
+                           <item>2 A lively faith in chriſts merits and righteouſ<g ref="char:EOLhyphen"/>neſſe, which purifieth the heart. <hi>Acts</hi> 15.9.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> 1. Cor. 16.2. <hi>Every firſt day of the weeke, let every one of you put aſide by him<g ref="char:EOLhyphen"/>ſelfe, &amp; lay vp as God hath proſpered him, &amp;c.</hi>
+                  </p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> Rom. 12.1. <hi>I beſeech you therefore brethren, by the mercies of God, &amp;c.</hi>
+                  </p>
+                  <p>1. Cor. 14.33. <hi>For God is not the author of confuſion, but of peace, as we ſee in all the Churches of the Saints.</hi>
+                  </p>
+                  <p n="d">
+                     <hi rend="sup">d</hi> 1. Cor. 14.40. <hi>Let all things be done honestly, and in order.</hi>
+                  </p>
+                  <p n="e">
+                     <hi rend="sup">e</hi> Gal. 6.10. <hi>While we have time, let vs doe good to all men, eſpecially to thoſe that are of the houſhold of faith.</hi>
+                  </p>
+                  <p n="f">
+                     <hi rend="sup">f</hi> Luke 10 33. <hi>Then a certaine Sama<g ref="char:EOLhyphen"/>ritan, as he iournied, came neere vnto him,
+<pb n="76" facs="tcp:150817:46"/>and when he ſaw him, he had compaſsion on him.</hi>
+                  </p>
+                  <p n="g">
+                     <hi rend="sup">g</hi> 2. Cor. 1.3. <hi>Bleſſed be God, even the father of our Lord Ieſus Chriſt, the father of mercies, and God of all comfort.</hi> 4. <hi>Which comforteth vs in all our tribulation, that wee may be able to comfort them which are in a<g ref="char:EOLhyphen"/>ny affliction, by the comfort wherewith wee our ſelves are comforted of God.</hi>
+                  </p>
+                  <p n="h">
+                     <hi rend="sup">h</hi> Math. 25.35. <hi>For I was an hungred, and ye gave me meate, I thirſted, and ye gave me drinke; I was a ſtranger, and ye lodged me.</hi> 36. <hi>I was naked, and ye clothed me; I was ſicke, and ye viſited me; I was in priſon, and ye came vnto me.</hi>
+                  </p>
+                  <p n="i">
+                     <hi rend="sup">i</hi> Iam. 5.20. <hi>Let him know, that hee which hath converted the ſinner from going aſtray, out of his way, ſhall ſave a ſoule from death, &amp;c.</hi>
+                  </p>
+                  <p n="k">
+                     <hi rend="sup">k</hi> Dan. 12.3. <hi>They that turne many to righteouſneſſe, ſhall ſhine as the ſtarres, for e<g ref="char:EOLhyphen"/>ver and ever.</hi>
+                  </p>
+                  <p n="l">
+                     <hi rend="sup">l</hi> Luke 19.8. <hi>And</hi> Zaccheus <hi>ſtoode forth, and ſaid vnto the Lord; Behold Lord, the halfe of my goods I give to the poore, and if I have taken from any man by forged ca<g ref="char:EOLhyphen"/>villation, I reſtore him foure fold.</hi>
+                  </p>
+                  <p n="m">
+                     <pb n="77" facs="tcp:150817:46"/>
+                     <hi rend="sup">m</hi> Rom. 12.8. <hi>He that ſheweth mercie, with cheerefulneſſe.</hi>
+                  </p>
+                  <p n="n">
+                     <hi rend="sup">n</hi> Math. 6.1. <hi>Take heede ye give not your almes before men, to be ſeene of them, &amp;c.</hi>
+                  </p>
+                  <p n="o">
+                     <hi rend="sup">o</hi> Luke 17.10. <hi>When ye have done all thoſe things which are commanded you, ſay; We are vnprofitable ſervants: we have done that which was our dutie to doe.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="11" type="chapter">
+               <head>Of the private Sanctification of the Sab<g ref="char:EOLhyphen"/>baoth day, by a man alone.</head>
+               <head type="sub">CHAP. XI.</head>
+               <p>THe private Sanctification of the Sabbaoth day, ſtandeth in ſuch duties, as every one is to put in pra<g ref="char:EOLhyphen"/>ctiſe.</p>
+               <list>
+                  <item>1 Alone by himſelfe.</item>
+                  <item>2 In company with others. See chap. 12.</item>
+               </list>
+               <p>Of everie man alone, two things are required.</p>
+               <pb n="78" facs="tcp:150817:47"/>
+               <list>
+                  <item>1 Preparation before they come to the publike aſſembly.</item>
+                  <item>2 Meditation, when they are gone from them.</item>
+               </list>
+               <p>Concerning Preparation, two things are to be conſidered.</p>
+               <list>
+                  <item>1 How it may be proved, that it is re<g ref="char:EOLhyphen"/>quired.</item>
+                  <item>2 Wherein it conſiſteth.</item>
+               </list>
+               <p>That it is required, as a thing ve<g ref="char:EOLhyphen"/>rie neceſſarie, may be prooved two waies.</p>
+               <list>
+                  <item>1 By the expreſſe Commandement of God.
+<list>
+                        <item>1 In the <hi rend="sup">a</hi> old Teſtament.</item>
+                        <item>2 In the <hi rend="sup">b</hi> new.</item>
+                     </list>
+                  </item>
+                  <item>2 By an argument, from the leſſe, to the greater. Firſt, among Prin<g ref="char:EOLhyphen"/>ces; for if <hi>Hester</hi> durſt not goe into the Kings preſence, before ſhe had <hi rend="sup">c</hi> prepared her ſelfe, much leſſe ought wee to come into Gods preſence, without due prepa<g ref="char:EOLhyphen"/>ration. Secondly, in all worldly matters of any moment, wee vſe preparation, as in taking of phyſicke, tilling the ground,
+<pb n="79" facs="tcp:150817:47"/>&amp;c. much more ought wee to vſe preparation in heavenlie things.</item>
+               </list>
+               <p>So much for the proofe of the mat<g ref="char:EOLhyphen"/>ter. Now let vs ſee wherein it conſiſteth, and that is in three things.</p>
+               <list>
+                  <item>1 In a private examination of our owne hearts, before the Lord, and that for foure things.
+<list>
+                        <item>1 How we have ſpent the weeke paſt.</item>
+                        <item>2 What ſinnes we have committed day and night to humble vs.</item>
+                        <item>3 What duties wee have perfor<g ref="char:EOLhyphen"/>med to comfort vs.</item>
+                        <item>4 What graces we want, and what infirmities we be troubled with<g ref="char:EOLhyphen"/>all.</item>
+                     </list>
+                  </item>
+                  <item>2 In private prayer, for others, and for our ſelves.
+<list>
+                        <item>1 For others, and cheefely for the Miniſter, that hee may ſpeake both boldely, and plainelie to our conſciences, and that his prayers may meete with <hi rend="sup">d</hi> our wants.</item>
+                        <pb n="80" facs="tcp:150817:48"/>
+                        <item>2 For our ſelves, we muſt alſo vſe private prayer; and namely, that our hearts may yeelde vnto the word, and ſurely great cauſe there is, that we ſhould ſo pray: for,
+<list>
+                              <item>1 We cannot of our ſelves right<g ref="char:EOLhyphen"/>ly vnderſtand the word, be<g ref="char:EOLhyphen"/>cauſe the word of God is high, and full of <hi rend="sup">e</hi> hidden myſte<g ref="char:EOLhyphen"/>ries, and we are full of <hi rend="sup">f</hi> darke<g ref="char:EOLhyphen"/>neſſe.</item>
+                              <item>2 When we vnderſtand it, wee affect it not: and therefore we muſt pray alſo for affection.</item>
+                              <item>3 When we like it, wee ſoone forget it: and therefore me<g ref="char:EOLhyphen"/>mory muſt be alſo praied for.</item>
+                              <item>4 When we remember it, wee want obedient hearts: and then obedience muſt be pray<g ref="char:EOLhyphen"/>ed for.</item>
+                           </list>
+                        </item>
+                        <item>3 In private reading of the Scrip<g ref="char:EOLhyphen"/>tures, that ſo we may,
+<list>
+                              <item>1 Be acquainted with the whole bodie of the Scripture, to our further <hi rend="sup">g</hi> comfort and inſtru<g ref="char:EOLhyphen"/>ction.</item>
+                              <pb n="81" facs="tcp:150817:48"/>
+                              <item>2 The better vnderſtand the prea<g ref="char:EOLhyphen"/>ching.</item>
+                              <item>3 Make the better vſe of that we heare.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>So much of preparation before we goe to the publike exerciſes of religi<g ref="char:EOLhyphen"/>on. Now of meditation when wee are gone from them, which dutie, that we may the better put in practiſe, we are to know foure things.</p>
+               <p n="1">1 What meditation is.</p>
+               <p n="2">2 How hardly men are drawne vn<g ref="char:EOLhyphen"/>to it.</p>
+               <p n="3">3 How it is commended in the ſcrip<g ref="char:EOLhyphen"/>ture.</p>
+               <p n="4">4 That we muſt meditate, as well vpon the workes, as vpon the word of God.</p>
+               <div n="1" type="proposition">
+                  <head>Of the firſt.</head>
+                  <p>Meditation is an exerciſe, neither of the eye, nor of the eare, nor of the tong; but of the minde onely, after ſpeaking, reading, hearing, and beholding; where<g ref="char:EOLhyphen"/>by,</p>
+                  <p n="1">1 We call to minde that which wee have <hi rend="sup">h</hi> heard, read, or ſeene.</p>
+                  <p n="2">2 We doe further muſe and reaſon
+<pb n="82" facs="tcp:150817:49"/>of the ſame with our ſelves.</p>
+                  <p n="3">3 We doe apply it to our owne vſe, and make practiſe of it.</p>
+               </div>
+               <div n="2" type="proposition">
+                  <head>Of the ſecond.</head>
+                  <p>That men naturally are hardly drawne vnto meditation, (the divell en<g ref="char:EOLhyphen"/>vying the great good of it) is moſt cer<g ref="char:EOLhyphen"/>taine: for,</p>
+                  <p n="1">1 Moſt men naturally deſire to paſſe the time as merrily as they can, and to avoide muzings and melancholie dumps, (as they call them)</p>
+                  <p>Secondly, leſt they ſhould fall vn<g ref="char:EOLhyphen"/>awares into meditation, they will,
+<list>
+                        <item>1 Cut off all meanes that might pro<g ref="char:EOLhyphen"/>cure meditation, by being alwaies in pleaſant company.</item>
+                        <item>2 Maintaine fooliſh and profane je<g ref="char:EOLhyphen"/>ſtures in their houſes, (if they be a<g ref="char:EOLhyphen"/>ble) of purpoſe.
+<list>
+                              <item>1 To feede their owne profane and irreligious humors.</item>
+                              <item>2 To keepe them from medita<g ref="char:EOLhyphen"/>ting and ſtudying of mortifi<g ref="char:EOLhyphen"/>cation.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+               </div>
+               <div n="3" type="proposition">
+                  <head>Of the third.</head>
+                  <p>Meditation is commended vnto vs
+<pb n="83" facs="tcp:150817:49"/>in the Scripture, as a thing that is,
+<list>
+                        <item>1 A ſpeciall good meanes to cauſe vs to keepe the Commandements of God, and to proſper in that we take in <hi rend="sup">i</hi> hand.</item>
+                        <item>2 A true note of a man, that is both truly godly, and truly <hi rend="sup">k</hi> happy.</item>
+                        <item>3 The practiſe of the godly, when they would withſtand the force of ſlaunderous tongues, and other <hi rend="sup">l</hi> wicked deviſes, and when they vnderſtand more of Gods law, than <hi rend="sup">m</hi> other men.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="4" type="proposition">
+                  <head>Of the fourth.</head>
+                  <p>We muſt not onely meditate vpon the word of God, which we reade and heare, but alſo of his workes, which we behold in the heavens, in the earth, in the ſea, in our ſelves, &amp;c. that ſo wee may,
+<list>
+                        <item>1 Learne the inviſible things of God, as well by experience, as by <hi rend="sup">n</hi> do<g ref="char:EOLhyphen"/>ctrine.</item>
+                        <item>2 Thereby be confirmed in <hi rend="sup">o</hi> godli<g ref="char:EOLhyphen"/>neſſe, and be aſſured of <hi rend="sup">p</hi> Gods truth and favour.</item>
+                     </list>
+                  </p>
+               </div>
+               <div type="proofs">
+                  <pb n="84" facs="tcp:150817:50"/>
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> Exod. 19.10. <hi>Moreover, God ſaid vnto</hi> Moſes; <hi>Goe to the people, and ſanctifie them to day, and to morrow, and let them waſh their clothes.</hi>
+                  </p>
+                  <p>Eccleſ. 4.17. <hi>Take heede to thy foote, when thou entreſt into the houſe of God, &amp;c.</hi>
+                  </p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> Luke 8.18. <hi>Take heede how ye heare.</hi>
+                  </p>
+                  <p>1. Cor. 11.28. <hi>Let a man therefore ex<g ref="char:EOLhyphen"/>amine himſelfe, and ſo let him eate, &amp;c.</hi>
+                  </p>
+                  <p>c Heſt. 4.10. <hi>And faſt ye for me, &amp; eate not, nor drinke in three daies, day nor night: I alſo and my maides, will faſt likewiſe, and ſo I will goe in to the King, &amp;c.</hi>
+                  </p>
+                  <p n="d">
+                     <hi rend="sup">d</hi> Epheſ. 6.18. <hi>And pray, &amp;c. for all Saints.</hi> 19. <hi>And for me, that vtterance may be given me, that I may open my mouth bold<g ref="char:EOLhyphen"/>ly, as I ought to ſpeake.</hi>
+                  </p>
+                  <p n="e">
+                     <hi rend="sup">e</hi> 1. Cor. 2.7. <hi>But wee ſpeake the wiſe<g ref="char:EOLhyphen"/>dome of God in a myſterie, &amp;c.</hi> 8. <hi>Which none of the Princes of this world hath knowne, &amp;c.</hi>
+                  </p>
+                  <p n="f">
+                     <hi rend="sup">f</hi> Epheſ. 5.8. <hi>For we were once darke<g ref="char:EOLhyphen"/>neſſe.</hi>
+                  </p>
+                  <p n="g">
+                     <hi rend="sup">g</hi> Acts 17.11. <hi>Theſe were alſo more
+<pb n="85" facs="tcp:150817:50"/>noble men, than they of</hi> Theſſalonica, <hi>which received the word with all readineſſe, and ſearched the Scriptures daily, whether thoſe things were ſo.</hi>
+                  </p>
+                  <p n="h">
+                     <hi rend="sup">h</hi> Luke 2.19. <hi>But</hi> Mary <hi>kept all thoſe ſayings, and pondred them in her heart.</hi>
+                  </p>
+                  <p n="i">
+                     <hi rend="sup">i</hi> Ioſhu. 1.8. <hi>Let not this booke of the Law depart out of thy mouth, but meditate therein day and night, that thou maieſt ob<g ref="char:EOLhyphen"/>ſerve and doe according to all that is written therein: for then ſhalt thou make thy way prosperous, and then ſhalt thou have good ſucceſſe.</hi>
+                  </p>
+                  <p n="k">
+                     <hi rend="sup">k</hi> Pſal. 1.2. <hi>But his delight is in the Law of the Lord, and in his Law doth he meditate day and night.</hi>
+                  </p>
+                  <p n="l">
+                     <hi rend="sup">l</hi> Pſal. 119 23. <hi>Princes alſo did ſit and ſpeake againſt me, but thy ſervant did medi<g ref="char:EOLhyphen"/>tate in thy ſtatutes.</hi> 78. <hi>They have dealt wic<g ref="char:EOLhyphen"/>kedly and falſely with me, but I meditate in thy precepts.</hi>
+                  </p>
+                  <p n="m">
+                     <hi rend="sup">m</hi> Pſal. 119.99. <hi>I have had more vn<g ref="char:EOLhyphen"/>derſtanding than all my teachers, for thy te<g ref="char:EOLhyphen"/>ſtimonies are my meditation.</hi>
+                  </p>
+                  <p n="n">
+                     <hi rend="sup">n</hi> Rom. 1.20. <hi>For the inviſible things of Him; that is, his eternall power and godhead, are ſeene by the creation of the world, being
+<pb n="86" facs="tcp:150817:51"/>conſidered in his workes, &amp;c.</hi>
+                  </p>
+                  <p>o Pſal. 92.4. <hi>For thou Lord, hast made me glad by thy workes, and I will reioyce in the worke of thy hands.</hi> 5. <hi>O Lord how glo<g ref="char:EOLhyphen"/>rious are thy workes?</hi> Pſal. 77.11. <hi>I remem<g ref="char:EOLhyphen"/>bred the workes of the Lord: certainely I re<g ref="char:EOLhyphen"/>membred thy wonders of old: I did alſo medi<g ref="char:EOLhyphen"/>tate all thy workes, &amp;c.</hi> Pſal. 8.3. <hi>When I behold thine heavens, the workes of thine fin<g ref="char:EOLhyphen"/>gers, the moone, and the ſtarres, which thou haſt ordained,</hi> 4. <hi>What is man, ſay I, &amp;c.</hi>
+                  </p>
+                  <p n="p">
+                     <hi rend="sup">p</hi> Eſa. 40.12. <hi>Who hath meaſured the waters in his fist, and counted heaven with a ſpanne, and comprehended the duſt of the earth in a meaſure, and weighed the moun<g ref="char:EOLhyphen"/>taine in a weight, and the hills in a ballance, &amp;c.</hi> Math. 6.25. <hi>Be not carefull for your life, what ye ſhall eate, &amp;c.</hi> 26. <hi>Behold, the fowles of the heaven, &amp;c.</hi> 28. <hi>Learne how the lillies of the field do grow, &amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="87" facs="tcp:150817:51"/>
+               <head>Of thoſe duties that are to be performed with others: and firſt of Conference.</head>
+               <head type="sub">CHAP. XII.</head>
+               <p>THoſe duties which are to be per<g ref="char:EOLhyphen"/>formed with others, for the private ſanctifying of the Sabbaoth day, are two.</p>
+               <p n="1">1 Conference of Gods word and workes, which on the Lords day wee reade, heare, ſee, and heare of.</p>
+               <p n="2">2 Singing of Pſalmes. See chap. 13.</p>
+               <p>Concerning Conference, five things are well to be obſerved.</p>
+               <p n="1">1 With whom to conferre.</p>
+               <p n="2">2 Why conference muſt be had vp<g ref="char:EOLhyphen"/>pon the Sabbaoth day.</p>
+               <p n="3">3 Why it is ſo little vſed.</p>
+               <p n="4">4 How to conferre.</p>
+               <p n="5">5 What is the fruit of conference.</p>
+               <div n="1" type="point">
+                  <head>Of the firſt point.</head>
+                  <head type="sub">With whom to conferre.</head>
+                  <p>Conference is to be had with two kindes of perſons.</p>
+                  <pb n="88" facs="tcp:150817:52"/>
+                  <list>
+                     <item>1 With our <hi rend="sup">a</hi> owne families, and that for two cauſes.
+<list>
+                           <item>1 To whet our own memories.</item>
+                           <item>2 To convey religion vnto our poſteritie.</item>
+                        </list>
+                     </item>
+                     <item>2 With other perſons, namely, our neighbours <hi rend="sup">b</hi> that feare God: and our <hi rend="sup">c</hi> Miniſters.</item>
+                  </list>
+                  <p>Therefore it followeth, that the Mi<g ref="char:EOLhyphen"/>niſter muſt not be vnlearned: for then he cannot reſolve mens doubts, nor ſa<g ref="char:EOLhyphen"/>tisfie mens conſciences, &amp;c. nor prowd and diſdainefull, for then hee will not admit any conference, eſpecially with poore ſimple men.</p>
+               </div>
+               <div n="2" type="point">
+                  <head>Of the ſecond point.</head>
+                  <head type="sub">Why on the Sabbaoth day.</head>
+                  <p>Conference is good and neceſſary at all times, but eſpecially on the Sab<g ref="char:EOLhyphen"/>baoth day, and that for two cauſes.</p>
+                  <list>
+                     <item>1 Becauſe we have then lately heard the word, and after a more ſpeci<g ref="char:EOLhyphen"/>all manner, and ſo have greater oc<g ref="char:EOLhyphen"/>caſion and provocation to confer.</item>
+                     <item>2 We have then more leaſure, by rea<g ref="char:EOLhyphen"/>ſon that we are not to be interrup<g ref="char:EOLhyphen"/>ted with worldly matters.</item>
+                  </list>
+               </div>
+               <div n="3" type="point">
+                  <pb n="89" facs="tcp:150817:52"/>
+                  <head>Of the third point.</head>
+                  <head type="sub">Why it is ſo little vſed.</head>
+                  <p>The cauſe why this kinde of confe<g ref="char:EOLhyphen"/>rence is ſo little vſed, is two fold.</p>
+                  <list>
+                     <item>1 The corruption of our nature; which is ſo great, that it will nei<g ref="char:EOLhyphen"/>ther provoke our ſelves, nor others vnto it, nor take occaſion being offered; but will cauſe vs, ey ther to interrupt thoſe that ſpeake religi<g ref="char:EOLhyphen"/>ouſly, by turning our talke to o<g ref="char:EOLhyphen"/>ther odde matters of worldly pro<g ref="char:EOLhyphen"/>fite, or vaine delight, or elſe to be ſtricken ſo dainely into heavie dumpes, having not a word to maintaine conference withall. This negligence and vntowardneſſe breedeth,
+<list>
+                           <item>1 Vnfruitfull hearing and rea<g ref="char:EOLhyphen"/>ding.</item>
+                           <item>2 Ill memories in the beſt things.</item>
+                           <item>3 Careleſſe and looſe living.</item>
+                        </list>
+                     </item>
+                     <item>2 Our barrenneſſe in heavenly wiſe<g ref="char:EOLhyphen"/>dome and vnderſtanding, and that by reaſon of two things.
+<pb n="90" facs="tcp:150817:53"/>
+                        <list>
+                           <item>1 That the word is not hidden plenteouſly in our <hi rend="sup">d</hi> hearts, to keepe vs from ſinne.</item>
+                           <item>2 That through the iuſt iudge<g ref="char:EOLhyphen"/>ment of God, (vpon ſpirits that are prowde in condemning, bitter in reprooving, too ſwift in cenſuring, vncharitable in miſconſtruing, obſtinate in er<g ref="char:EOLhyphen"/>ring, vaine in reaſoning, ſubtile in entrapping) many conferen<g ref="char:EOLhyphen"/>ces have prooved either vaine janglings, without edifying, or odious brawles, and vnre con<g ref="char:EOLhyphen"/>cileable, or contentions, both endleſſe, and needeleſſe, without any profit.</item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+               <div n="4" type="point">
+                  <head>Of the fourth point.</head>
+                  <head type="sub">How to conferre.</head>
+                  <p>In conference we ought ſo to behave our ſelves, as that our conferences (ſo much as lieth in vs) may prove,
+<list>
+                        <item>1 <hi rend="sup">e</hi> Peaceable, to which end wee ought to avoide as much as poſsi<g ref="char:EOLhyphen"/>bly may be, all quipping, and gir<g ref="char:EOLhyphen"/>ding, and diſgracing, and biting ſpeeches, with all perſonall mat<g ref="char:EOLhyphen"/>ters
+<pb n="91" facs="tcp:150817:53"/>that tend to no end, but the ſtirring vp of ſtrife, and all diſor<g ref="char:EOLhyphen"/>derly and rumultuous aſſemblies of multitudes, tending to faction and ſchiſme, commonly called Conventicles, muſt be avoided.</item>
+                        <item>2 Profitable, to which end, we muſt examine our ſelves, whether we be able in ſome meaſure, to ſpeake to the purpoſe or no, and according<g ref="char:EOLhyphen"/>ly to proceede.</item>
+                     </list>
+                  </p>
+                  <p>If we cannot ſpeake ſo well as others in place, then (to maintaine conference) we may,
+<list>
+                        <item>1 Aske queſtions, and ſo procure conference, as,
+<list>
+                              <item>What is the mea<g ref="char:EOLunhyphen"/>ning of ſuch a word or place?</item>
+                              <item>How prove you ſuch a point, &amp;c.</item>
+                           </list>
+                        </item>
+                        <item>2 Liſten to others, with deſire to learne.</item>
+                        <item>3 Give our conſent, with ſhew of liking, by ſaying, yea, or no.</item>
+                     </list>
+                  </p>
+                  <p>If we finde our ſelves able to ſpeake (by the grace of God) to the purpoſe, then we muſt take heede,
+<pb n="92" facs="tcp:150817:54"/>
+                     <list>
+                        <item>1 To the matter of our conference, that it be not eyther too high <hi rend="sup">f</hi> for vs, <hi>Pſal.</hi> 131.1. or ſuch as concerne <hi rend="sup">g</hi> vs not. <hi>Iohn</hi> 21.22.</item>
+                        <item>2 To the manner of our conference, that it be,
+<list>
+                              <item>1 In good ſort. Firſt, modeſtly, chooſing rather to heare then to <hi rend="sup">h</hi> ſpeake <hi>Iames</hi> 1.19. Then or<g ref="char:EOLhyphen"/>derly, and in our turne, ſtaying vntill others have <hi rend="sup">i</hi> done. <hi>Acts</hi> 15.13. or ſhall refuſe to <hi rend="sup">k</hi> ſpeake. See <hi>Iob</hi> 32.4, 5, 6, 7, &amp;c.</item>
+                              <item>2 To a right end, and that muſt be onely the glory of God, in the manifeſting of truth, and the Churches good, <hi>viz.</hi> increaſe of faith and godlineſſe, in our ſelves, and others.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+               </div>
+               <div n="5" type="point">
+                  <head>Of the fift point.</head>
+                  <head type="sub">The fruit of conference.</head>
+                  <p>Chriſtian conference about matters of religion, is like a tree that beareth much and manifold fruit, as namely, en<g ref="char:EOLhyphen"/>creaſe of good knowledge, and ſound iudgement, perfect memorie, and good affections, godly vnity, with quietneſſe
+<pb n="93" facs="tcp:150817:54"/>of conſcience; all which are well to be conſidered, both for quantitie, and qualitie.
+<list>
+                        <item>1 For quantitie, they are very great, like to a great ſumme, that ariſeth of many littles, at a common ga<g ref="char:EOLhyphen"/>thering, or to a great heate, ariſing of many fire-brands put together, which being caſt aſunder, would die out.</item>
+                        <item>2 For the quality, the fruit of confe<g ref="char:EOLhyphen"/>rence is moſt excellent, and yet in the growing and gathering, ſome<g ref="char:EOLhyphen"/>what harſh and vnpleaſant; be<g ref="char:EOLhyphen"/>cauſe,
+<list>
+                              <item>1 Moſt men deſire to be counted rather teachers, than learners.</item>
+                              <item>2 Few will acknowledge willing<g ref="char:EOLhyphen"/>ly, either ignorance, or error.</item>
+                              <item>3 Conference can yeelde no good fruit, without ſome earneſt gain<g ref="char:EOLhyphen"/>ſaying, and ſtriving, and is like to the ſtriking of flint and ſteele together; both which doe ſuf<g ref="char:EOLhyphen"/>fer violence and inforcing: but without this violent enforcing of each other, no fire can be
+<pb n="94" facs="tcp:150817:55"/>kindled: but yet the benefite of the heate &amp; light of the fire doth recompence the ſuffering and loſſe of both: even ſo of confe<g ref="char:EOLhyphen"/>rence, &amp;c.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+               </div>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> Deut. 6.6. <hi>And theſe words which I command thee this day, ſhall be in thine heart.</hi> 7. <hi>And thou ſhalt rehearſe them continually vnto thy children, and ſhalt tacke of them when thou tarrieſt in thy houſe. Chap.</hi> 12.19. <hi>And ye ſhall teach them your children, ſpea<g ref="char:EOLhyphen"/>king of them when thou ſitteſt in thine houſe, &amp;c.</hi>
+                  </p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> Mal. 3.16. <hi>Then ſpake they that fea<g ref="char:EOLhyphen"/>red the Lord, every one to his neighbour, and the Lord harkened, and heard it, &amp;c.</hi>
+                  </p>
+                  <p n="c">
+                     <hi rend="sup">c</hi> Mal. 2.7. <hi>For the Prieſts lippes ſhould preſerve knowledge, and they ſhould ſeeke the Law at his mouth, for he is the meſſenger of the Lord of Hoſts. And</hi> Hag. 2.12. <hi>Thus ſaith the Lord of Hoſts; Aske now the Prieſts concerning the Law, and ſay, &amp;c.</hi>
+                  </p>
+                  <p n="d">
+                     <hi rend="sup">d</hi> Pſal. 119.11. <hi>I have hid thy promiſe
+<pb n="95" facs="tcp:150817:55"/>in my heart, that I might not ſinne against thee.</hi> 13. <hi>With my lippes have I declared all the iudgements of thy mouth.</hi> Col. 3.16. <hi>Let the word of Chriſt dwell in you plenteouſly, in all wiſedome.</hi>
+                  </p>
+                  <p>e Rom. 12.18. <hi>If it be poſsible, as much as in you is, have peace with all men.</hi> Pſalm. 122.6. <hi>Pray for the peace of</hi> Ieruſalem, <hi>let them proſper that love thee.</hi> Cant. 8.4. <hi>I charge you, O daughters of</hi> Ieruſalem, <hi>that you ſtirre not vp, nor waken my love, vntill ſhe pleaſe.</hi>
+                  </p>
+                  <p n="f">
+                     <hi rend="sup">f</hi> Pſal. 131. <hi>Lord, I have not walked in great matters, and hid from me.</hi>
+                  </p>
+                  <p n="g">
+                     <hi rend="sup">g</hi> Iohn 21.22. <hi>What is that to thee? follow thou me.</hi>
+                  </p>
+                  <p n="h">
+                     <hi rend="sup">h</hi> Iam. 1.19. <hi>Let every man be ſwift to heare, and ſlow to ſpeake.</hi>
+                  </p>
+                  <p>i Acts 15.13. <hi>And when they held their peace,</hi> Iames <hi>anſwered, &amp;c.</hi>
+                  </p>
+                  <p>k Iob 32.4. <hi>Now</hi> Elihu <hi>had waited till</hi> Iob <hi>had ſpoken, for they were more antient in yeares than he.</hi> 5. <hi>So, when</hi> Elihu <hi>ſaw that there was no anſwer in the mouth of the three men, his wrath was kindled.</hi> 6. <hi>There<g ref="char:EOLhyphen"/>fore</hi> Elihu, <hi>the ſonne of</hi> Barachel, <hi>the Bu<g ref="char:EOLhyphen"/>zite, anſwered and ſaid; I am young in yeares,
+<pb n="96" facs="tcp:150817:56"/>and ye are antient, therefore I doubted, and was afraid to ſhew you mine opinion.</hi> 7. <hi>For I ſaid; The daies ſhall ſpeake, and the multi<g ref="char:EOLhyphen"/>tude of yeares ſhall teach wiſedome, &amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="13" type="chapter">
+               <head>Of ſinging of Pſalmes privately on the Sabbaoth day.</head>
+               <head type="sub">CHAP. XIII.</head>
+               <p>THat ſinging of Pſalmes, is to be vſed for the private ſanctification of the Sabbaoth day, ſhall the better appeare, if we conſider in generall, how ſinging of Pſalmes is both commaun<g ref="char:EOLhyphen"/>ded, and commended in the Scripture.</p>
+               <p n="1">1 It is commanded by the ſpirit of God.</p>
+               <list>
+                  <item>1 In the <hi rend="sup">a</hi> old Teſtament. <hi>Pſal.</hi> 95.1. and <hi>Pſal.</hi> 92. which was appointed for the Sabbaoth onely. See the title.</item>
+                  <item>2 In the <hi rend="sup">b</hi> new Teſtament.</item>
+               </list>
+               <p>Which Scriptures have in them to
+<pb n="97" facs="tcp:150817:56"/>be conſidered, matter,
+<list>
+                     <item>1 Of ſubſtance, and that is double.
+<list>
+                           <item>1 The matter ſubiect of our ſin<g ref="char:EOLhyphen"/>ging, <hi>viz.</hi> holy Pſalmes, godly Hymnes, and ſpirituall ſongs.</item>
+                           <item>2 The cheefe end of our ſinging, which muſt be to admoniſh, and to be <hi rend="sup">c</hi> admoniſhed. And a ſcco<g ref="char:cmbAbbrStroke">̄</g>d end muſt be, to ſtirre vp our dul<g ref="char:EOLhyphen"/>led ſpirits, more cheerefully to praiſe God.</item>
+                        </list>
+                     </item>
+                     <item>2 Of circumſtance, and that chiefely is two<g ref="char:EOLhyphen"/>fold, of
+<list>
+                           <item>The time when.</item>
+                           <item>The maner how.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p n="1">1 Of the time when to ſing Pſalmes, &amp;c. and that is, generally at all times of proſperity and <hi rend="sup">d</hi> reioycing: but yet not onely then, for we reade alſo of ſongs of <hi rend="sup">e</hi> mourning; ſpecially vppon the Sabbaoth day, (as appeareth by <hi>Pſal.</hi> 92. the title of it) a day of greateſt ioy, and then we muſt ſing for ioy indeede of the Lord Ieſus.
+<list>
+                     <item>1 Publikely at the Temple; becauſe we have then, all the means where<g ref="char:EOLhyphen"/>by this ioy is conveyed vnto vs.</item>
+                     <pb n="98" facs="tcp:150817:57"/>
+                     <item>2 Privately at home, thereby to re<g ref="char:EOLhyphen"/>vive and renew our ioy &amp; thank<g ref="char:EOLhyphen"/>fulneſſe.</item>
+                  </list>
+               </p>
+               <p n="2">2 Of the maner how, which muſt be,
+<list>
+                     <item>1 In our hearts, vnfainedly.</item>
+                     <item>2 With a grace, modeſtly and come<g ref="char:EOLhyphen"/>ly.</item>
+                     <item>3 Vnto the Lord, reverently, and religiouſly.</item>
+                  </list>
+               </p>
+               <p>So much for the Commandement for ſinging. Now, as it is commanded, ſo alſo is it commended vnto vs, and that two waies.</p>
+               <list>
+                  <item>1 By the teſtimonie of the Pſalmiſt.</item>
+                  <item>2 By holy examples.</item>
+               </list>
+               <p>The teſtimony which the Pſalmiſt giveth, of ſinging praiſes vnto God, is in <hi>Pſal.</hi> 147.1. where hee ſaith, that it is good, pleaſant, and comely.</p>
+               <p>It is good;
+<list>
+                     <item>1 In regard of the Author; for it is a thing appointed by the Lord: who being all goodneſſe it ſelfe, can<g ref="char:EOLhyphen"/>not ordaine any thing, but that which is good.</item>
+                     <item>2 In regard of the end, which is double.
+<pb n="99" facs="tcp:150817:57"/>
+                        <list>
+                           <item>1 To make vs more cheerefull and lively in the ſervice and worſhip of God.</item>
+                           <item>2 To comfort &amp; edifie our ſoules in the promiſes and mercies of God.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>It is pleaſant, becauſe,
+<list>
+                     <item>1 Heere is pleaſure without paine: not ſo in carnall ſongs.</item>
+                     <item>2 The pleaſure of this abideth for ever: not the pleaſure of fleſhly ſongs.</item>
+                  </list>
+               </p>
+               <p>It is comely, both in regard of that which is ſung, which are the praiſes of God, which are full of heavenly maie<g ref="char:EOLhyphen"/>ſtie and grace, as alſo in regard of that excellent beauty and grace, which God hath graced his owne gift and ordi<g ref="char:EOLhyphen"/>nance withall, the muſicke, (I meane) of voyces. Which things, though they be comely and full of grace in them<g ref="char:EOLhyphen"/>ſelves, yet doe they not become the wicked, more than a gold ring becom<g ref="char:EOLhyphen"/>meth a ſwines ſnowt, or a parable the mouth of a foole. <hi>Prov.</hi> and that bicauſe,
+<list>
+                     <item>1 They hate to be reformed. <hi>Pſal.</hi> 50.17.</item>
+                     <pb n="100" facs="tcp:150817:58"/>
+                     <item>2 Their howling doth but profane and pollute ſacred ſongs.</item>
+                  </list>
+               </p>
+               <p>But it becommeth well the <hi rend="sup">f</hi> righte<g ref="char:EOLhyphen"/>ous, who when they ſing the praiſes of God, muſt looke to two things eſpeci<g ref="char:EOLhyphen"/>ally, whereby this holy ordinance of ſinging Pſalmes, may the more become them.</p>
+               <list>
+                  <item>1 That their hearts be prepared to ſing feelingly, with a holy affecti<g ref="char:EOLhyphen"/>on, and good vnderſtanding.</item>
+                  <item>2 That it be done in comely man<g ref="char:EOLhyphen"/>ner, with a grace: and two things there be to grace it with all. Firſt, Reverence. Secondly, Order: both which are requiſite in regard of,
+<list>
+                        <item>1 The matter ſung, which is holy, ſpirituall, and the word of God.</item>
+                        <item>2 Him to whom we ſing, and that is to the <hi rend="sup">g</hi> Lord.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>So much for the teſtimonie, which the Pſalmiſt hath given of ſinging Pſalmes: it is further commended vnto vs by examples,
+<list>
+                     <item>1 Of our <hi rend="sup">h</hi> Saviour Chriſt himſelfe.</item>
+                     <item>2 Of the <hi rend="sup">i</hi> Apoſtles, and other of the godly.</item>
+                  </list>
+               </p>
+               <pb n="101" facs="tcp:150817:58"/>
+               <p> By which examples, we may further obſerve, that Gods children have ſome<g ref="char:EOLhyphen"/>times a time,</p>
+               <p>Of reioycing onely, and then ſinging is fitteſt to expreſſe our <hi rend="sup">k</hi> joy. <hi>Iames</hi> 5.13.</p>
+               <p>Of mourning onely, and then prayer is more neceſſary.</p>
+               <p>Of ſinging and praying together, and that is, when God doth temper the afflictions of his children, with the ioy of the holy Ghoſt: as he did vnto <hi>Paul</hi> and <hi>Silas, Asts</hi> 16.25. who ſung in pri<g ref="char:EOLhyphen"/>ſon after their whipping, where they had cauſe both to ſing, and to pray: to ſing, becauſe their cauſe was good, and God was with them: to pray, becauſe their enemies malice was great, and their preſent ſtate was very hard.</p>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> Pſal. 95.1. <hi>Come, let vs reioyce vnto the Lord, let vs ſing aloud vnto the rocke of our ſalvation.</hi>
+                  </p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> Col. 3.16. <hi>Teach and admoniſh your owne ſelves in Pſalmes and Hymnes, and ſpi<g ref="char:EOLhyphen"/>rituall
+<pb n="102" facs="tcp:150817:59"/>&amp;c.</hi> Iam. 5.13. <hi>Is any man mer<g ref="char:EOLhyphen"/>ry, let him ſing.</hi>
+                  </p>
+                  <p n="c">
+                     <hi rend="sup">c</hi> Col. 3.16. <hi>Teaching and admoniſhing your ſelves in Pſalmes, &amp;c. as before.</hi> 
+                     <hi rend="sup">d</hi> Iam. 5.13. <hi>Is any man merry, let him ſing.</hi>
+                  </p>
+                  <p n="e">
+                     <hi rend="sup">e</hi> 2. Chron. 35.25. <hi>And all ſinging men, and ſinging women, mourned for</hi> Ioſiah, <hi>in their lamentations, &amp;c.</hi>
+                  </p>
+                  <p n="f">
+                     <hi rend="sup">f</hi> Pſal. 33.1. <hi>Reioyce in the Lord, O yee righteous, for it becommeth well the vpright men to be thankefull.</hi>
+                  </p>
+                  <p n="g">
+                     <hi rend="sup">g</hi> Exod. 15.1. <hi>Then ſang</hi> Moſes <hi>and all</hi> Iſrael <hi>this ſong vnto the Lord. Alſo,</hi> Col. 3.16. <hi>Singing with a grace vnto the Lord.</hi>
+                  </p>
+                  <p n="h">
+                     <hi rend="sup">h</hi> Math. 26.30. <hi>And when they had ſung a Pſalme, they went out to the Mount of</hi> Olives.</p>
+                  <p n="i">
+                     <hi rend="sup">i</hi> Acts 16.25. <hi>Now at mid-night,</hi> Paul <hi>and</hi> Silas <hi>prayed, and ſung a Pſalme vnto God, &amp;c.</hi>
+                  </p>
+                  <p n="k">
+                     <hi rend="sup">k</hi> Iam. 5.13. <hi>Is any man merry, let him ſing.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="103" facs="tcp:150817:59"/>
+               <head>What perſons muſt ſanctifie the Sab<g ref="char:EOLhyphen"/>baoth day.</head>
+               <head type="sub">CHAP. XIIII.</head>
+               <p>BY whom the Lords day muſt be ſanctified, may appeare by theſe words: <hi>Thou, and thy ſonne, and thy daugh<g ref="char:EOLhyphen"/>ter, thy man ſervant, &amp;c.</hi> Where we have two things to conſider.</p>
+               <list>
+                  <item>1 What doctrines do ariſe from theſe words.</item>
+                  <item>2 What Obiections are commonly made againſt the ſaid doctrines. See chap. 15.</item>
+               </list>
+               <p>The doctrines ariſing from the for<g ref="char:EOLhyphen"/>mer wordes of the Commaundement, are two.</p>
+               <list>
+                  <item>1 That all ſuperiors muſt ſanctifie the Sabbaoth themſelves, and be as carefull, that all their inferiours, which are vnder their authoritie, may doe the ſame.</item>
+                  <item>2 That Maſters of families, and their whole families, (or ſo many as ſhall
+<pb n="104" facs="tcp:150817:60"/>come at all) muſt goe together, to the publike ſanctifying of the Sabbaoth day.</item>
+               </list>
+               <div type="doctrine">
+                  <head>Of the firſt.</head>
+                  <p>That all ſuperiors may with their in<g ref="char:EOLhyphen"/>feriors, ſanctifie the Lords Sabbaoth, they have,
+<list>
+                        <item>1 Meanes to effect the ſame.</item>
+                        <item>2 Reaſons to move them to execute the ſaid meanes.</item>
+                     </list>
+                  </p>
+                  <p>The meanes whereby they may ef<g ref="char:EOLhyphen"/>fect it, are two.</p>
+                  <list>
+                     <item>1 Enacting of orders and lawes for it.
+<list>
+                           <item>1 Publike in the Church and Com<g ref="char:EOLhyphen"/>mon-wealth.</item>
+                           <item>2 Private, in mens houſes.</item>
+                        </list>
+                     </item>
+                     <item>2 The diligent execution of the ſame lawes, whereby all that are vnder government, may be compelled to ſanctifie the Lords day.</item>
+                  </list>
+                  <p>The reaſons whereby they may be moved, are drawne two waies.</p>
+                  <list>
+                     <item>1 From the law of equitie and com<g ref="char:EOLhyphen"/>mon reaſon. For as God hath made them our ſervants, ſo we muſt inde<g ref="char:EOLhyphen"/>vour therefore to make them his.
+<pb n="105" facs="tcp:150817:60"/>And as they have ſixe daies ſerved vs; ſo wee on the ſeventh day, ſhould cauſe them to ſerve the Lord, or elſe we doe for our ſer<g ref="char:EOLhyphen"/>vants no more than,
+<list>
+                           <item>1 Infidells and heathen people, do for theirs.</item>
+                           <item>2 We doe for our beaſts, to whom we give foder, reſt, &amp;c.</item>
+                        </list>
+                     </item>
+                     <item>2 From the examples of Gods ſer<g ref="char:EOLhyphen"/>vants, who alwaies had this care o<g ref="char:EOLhyphen"/>ver their families.
+<list>
+                           <item>And according to this Comman<g ref="char:EOLhyphen"/>dement, did <hi>Ioſhua</hi> promiſe, that <hi rend="sup">a</hi> God ſhould be ſerved.
+<list>
+                                 <item>1 By himſelfe.</item>
+                                 <item>2 By his familie; becauſe hee knew,
+<list>
+                                       <item>1 How many good meanes he had to effect it by: as,
+<list>
+                                             <item>1 Godly exhortations.</item>
+                                             <item>2 Loving admonitions.</item>
+                                             <item>3 Severe chaſtiſements.</item>
+                                             <item>4 Authoritie to expell them his houſe, if they would not obey him.</item>
+                                          </list>
+                                       </item>
+                                       <item>2 Howe the Lord would
+<pb n="106" facs="tcp:150817:61"/>bleſſe the ſaid means, which he purpoſed to put in pra<g ref="char:EOLhyphen"/>ctiſe for Gods glory.</item>
+                                       <item>And according to this rule alſo walked <hi rend="sup">b</hi> 
+                                          <hi>David, Cornelius,</hi> and <hi>Abraham.</hi>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>But ſo doe not many now, in the light of the Goſpel: for,
+<list>
+                        <item>1 Many have no care at all, to ſan<g ref="char:EOLhyphen"/>ctifie the Lords day themſelves, (though they be content for their eaſe ſake to reſt:) and therefore cannot with any conſcience, re<g ref="char:EOLhyphen"/>quire it of their families.</item>
+                        <item>2 Others, though they have ſome care of it themſelves, yet they thinke, that the vrging of it to their families, is a thing not belonging to them.</item>
+                        <item>3 In great mens houſes, it is much neglected: for there we ſhall ſee;
+<list>
+                              <item>1 Many idle Servingmen, having little to doe on the ſixe daies, are never looked vnto for the ſeventh day.</item>
+                              <item>2 Others of office and great at<g ref="char:EOLhyphen"/>tendance: as Cookes, &amp;c. ſel<g ref="char:EOLhyphen"/>dome,
+<pb n="107" facs="tcp:150817:61"/>or never, or by halfes, come to ſanctifie the Lords Sab<g ref="char:EOLhyphen"/>baoth, with the Congregation.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+                  <p>So much for the firſt doctrine. The next doctrine followeth, and that is; that all which doe come, muſt come to<g ref="char:EOLhyphen"/>gether, to the publike ſanctifying of the Sabbaoth day, which readineſſe to ſerve God, is further confirmed two waies.</p>
+                  <list>
+                     <item>1 By Scripture.</item>
+                     <item>2 By common reaſon.</item>
+                  </list>
+                  <p>By the Scripture it is confirmed, where we ſhall ſee that it hath beene,
+<list>
+                        <item>1 Practiſed by <hi rend="sup">c</hi> Gods people.</item>
+                        <item>2 Propheſied to be in Gods people, in the time of the <hi rend="sup">d</hi> Goſpel.</item>
+                     </list>
+                  </p>
+                  <p>By common reaſon it is alſo maintai<g ref="char:EOLhyphen"/>ned: for,
+<list>
+                        <item>1 There is but one law made for the maſter and his family: therefore, if he thinke it time for himſelfe to come to Church, when the divine ſervice ſhal beginne, then is it time alſo for all his family to come with him, that ſhal come at all.</item>
+                        <item>2 When men goe to faires, (and
+<pb n="108" facs="tcp:150817:62"/>feaſts eſpecially,) they will be care<g ref="char:EOLhyphen"/>full to goe with their neighbours and wives together: much more ought they to goe together to the <hi rend="sup">e</hi> Lords markets, &amp; to the <hi rend="sup">f</hi> Lords feaſts.</item>
+                     </list>
+                  </p>
+                  <p>But great is the ſſackeneſſe of our age in this reſpect, one comming ſo long after another, which would be refor<g ref="char:EOLhyphen"/>med, if men would conſider but,
+<list>
+                        <item>1 The cauſe of this ſlackneſſe, which is want of,
+<list>
+                              <item>1 Zeale to Gods glory.</item>
+                              <item>2 Love to the ſalvation of their brethren.</item>
+                           </list>
+                        </item>
+                        <item>2 The curſed effects of it in fami<g ref="char:EOLhyphen"/>lies, which are much,
+<list>
+                              <item>Rebellion and vnfaithfulneſſe in wives.</item>
+                              <item>Stubbornneſſe and diſobedience in ſervants and children.</item>
+                              <item>Wickedneſſe and diſorder in all, to the ſhame of them all.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+                  <p>The reaſon is this: It is a iuſt thing with God, to pay men with the ſame meaſure, that they have meaſured to his Maieſtie. Seeing then, that they will not
+<pb n="109" facs="tcp:150817:62"/>give vnto God his due, they ſhall want of their owne due: and thoſe which are rebellious and negligent in the ſervice of God, ſhall finde the like ſervice at the hands of their inferiors.</p>
+                  <p>1. Sam. 2.30. <hi>Thoſe that honour me, I will honour</hi> (ſaith the Lord) <hi>and they that despiſe me, ſhall be deſpiſed.</hi>
+                  </p>
+               </div>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> Ioſhu. 24.15. <hi>And if it ſeeme evill to you to ſerve the Lord, chooſe you this day whom ye will ſerve, whether the gods which your fathers ſerved, that were beyond the floud, or the gods of the Amorites, among whom ye dwell: but I, and mine houſe, will ſerve the Lord.</hi>
+                  </p>
+                  <p n="b">
+                     <hi rend="sup">b</hi> Pſal. 101.6. <hi>Mine eyes ſhall be vnto the faithfull of the Land, that they may dwell with me: he that walketh in the perfect way, he ſhall ſerve me.</hi> 7. <hi>There ſhall no deceit<g ref="char:EOLhyphen"/>full perſon dwell within mine houſe: hee that telleth lies, ſhall not remaine in my ſight.</hi>
+                  </p>
+                  <pb n="110" facs="tcp:150817:63"/>
+                  <p> Acts 10.2. Cornelius, <hi>a devout man, fearing God, with all his houſhold. So</hi> Abra<g ref="char:EOLhyphen"/>ham, Gene. 18.19. <hi>I know that he will com<g ref="char:EOLhyphen"/>mand his ſonnes, and his houſhold after him, that they keepe the way of the Lord.</hi>
+                  </p>
+                  <p n="c">
+                     <hi rend="sup">c</hi> Pſal. 42.4. <hi>I powred out my very heart, becauſe I had gone with the multitude, and led them into the houſe of God, &amp;c.</hi> Pſalm. 122.1. <hi>Come, let vs goe into the houſe of the Lord.</hi>
+                  </p>
+                  <p n="d">
+                     <hi rend="sup">d</hi> Eſa. 2.2. <hi>It ſhall be in the laſt daies, that the Mountaine of the houſe of the Lord, ſhall be prepared in the top of the mountaines, and all Nations ſhall flow vnto it.</hi>
+                  </p>
+                  <p n="e">
+                     <hi rend="sup">e</hi> Eſa. 55.1. <hi>Ho, every one that thirſteth, come ye to the waters, and yee that have no ſilver, come, buy, and eate: I ſay; buy wine and milke without ſilver, &amp;c.</hi>
+                  </p>
+                  <p n="f">
+                     <hi rend="sup">f</hi> Math. 22.4. <hi>Againe, he ſent forth other ſervants ſaying; Tell them which are bidden; Behold, I have prepared my dinner, mine ox<g ref="char:EOLhyphen"/>en, and my fatlings are killed, and all things are readie, come vnto the marriage.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="111" facs="tcp:150817:63"/>
+               <head>Obiections against the doctrine of the former chapter an<g ref="char:EOLhyphen"/>ſwered.</head>
+               <head type="sub">CHAP. XV.</head>
+               <p>THoſe Obiections are made com<g ref="char:EOLhyphen"/>monly by irreligious perſons, and yet in outward ſhew, willing to have the Sabbaoth ſanctified by all: but for the not practiſing of the former doctrine, they alleadge two things.</p>
+               <p n="1">1 An impoſsibilitie, or great diffi<g ref="char:EOLhyphen"/>cultie of the matter at the leaſt.</p>
+               <p n="2">2 A ſequell of great inconvenience.</p>
+               <p>They which pleade the former, are of two ſorts.</p>
+               <p n="1">1 Great perſons, for place and cal<g ref="char:EOLhyphen"/>ling; whoſe Obiection, with the An<g ref="char:EOLhyphen"/>ſwer, followeth in this manner.</p>
+               <p>Obiection. In a great familie, many muſt needs be abſent, by reaſon of great proviſion, and much buſineſſe, &amp;c.</p>
+               <p>Anſwer.
+<list>
+                     <item>1 It is true, at ſometime, and vpon ſome occaſion, but ordi<g ref="char:EOLhyphen"/>narily,
+<pb n="112" facs="tcp:150817:64"/>and continually, they may not: for the Lord hath not laied a<g ref="char:EOLhyphen"/>ny ſuch calling vpon any man, that ſhould keepe him in a continuall breach of the Sabbaoth day.</item>
+                     <item>2 Where there is great care to pleaſe and ſerve God by prayer, the Lord will give ſuch wiſedome, that they ſhall redeeme, if not the whole, yet a great part of the day, which elſe would be miſ-ſpent: as namely,
+<list>
+                           <item>1 By letting paſſe many needleſſe things.</item>
+                           <item>2 By preparing much before hand.</item>
+                           <item>3 By riſing the earlier in the mor<g ref="char:EOLhyphen"/>ning.</item>
+                           <item>4 By taking interchangeable help of other ſervants.</item>
+                           <item>5 By contenting themſelves with ſo much the leſſe, though not in quantitie; becauſe many muſt be relieved, yet in quality with leſſe curious dreſsing, which cheefe<g ref="char:EOLhyphen"/>ly taketh vp the time.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>The ſecond ſort of men which plead
+<pb n="113" facs="tcp:150817:64"/>impoſsibilitie and difficultie, are infe<g ref="char:EOLhyphen"/>riour houſholders, and they obiect in this manner.</p>
+               <p>Obiection. Wee would have it as you ſay it ſhould be (Sir,) but we can<g ref="char:EOLhyphen"/>not bring it to paſſe, becauſe our wives are froward, ſo that wee cannot rule them, and our children and ſervants are ſtubburne and obſtinate.</p>
+               <p>Anſwer. 1. Such a mans caſe is to be pittied, as one that is rather to be go<g ref="char:EOLhyphen"/>verned, than to governe; and they might doe well to ſet vp one of them in their <hi rend="sup">a</hi> ſtead, ſeeing they (having ſo great au<g ref="char:EOLhyphen"/>thoritie,) doe ſuffer themſelves to be ſo abuſed, and over-ruled in the beſt things.</p>
+               <p n="2">2 That this abuſe might be refor<g ref="char:EOLhyphen"/>med, the man is wiſely to exerciſe his authoritie, and not to let his wife and ſervants come after him, at their plea<g ref="char:EOLhyphen"/>ſure, but to ſay vnto them; Come, let vs goe together, and not leave, till it be performed.</p>
+               <p>So much for thoſe that alleage diffi<g ref="char:EOLhyphen"/>culty. Now there be others, which pleade a ſequele of great inconvenience
+<pb n="114" facs="tcp:150817:65"/>that would follow: and they obiect as followeth.</p>
+               <p>Obiection. To deale thus ſtrait<g ref="char:EOLhyphen"/>ly with ſervants, is the next way to be rid of all our ſervants: And how then ſhall our worke be done?</p>
+               <p>Anſwer. 1. It is a great impietie, to thinke, that the Lord would require that of vs, which will drive vs to ſuch incon<g ref="char:EOLhyphen"/>veniences, and not to be perſwaded ra<g ref="char:EOLhyphen"/>ther of the <hi rend="sup">b</hi> contrary. See 1. <hi>Tim.</hi> 4.8. <hi>Math.</hi> 6.33.</p>
+               <p n="2">2 The divers natures of ſervants, be<g ref="char:EOLhyphen"/>ing conſidered, this obiection will be of no force: for all ſervants are eyther wicked, or religious, or falling away, or indifferent.</p>
+               <p>If they be Wicked, and will not ſerve God, their roome is better than their company: for they will never doe vs faithfull ſervice, which are ſo vnwilling to ſerve God.</p>
+               <p>If they be religious, this is the way to keepe them.</p>
+               <p>If indifferent, this is the way to win them.</p>
+               <p>If falling away, this is the way to
+<pb n="115" facs="tcp:150817:65"/>recover them.</p>
+               <p n="3">3 We ſhall no more be left ſervant<g ref="char:EOLhyphen"/>leſſe than our godly fore-fathers, who vowed to ſerve God with their families, &amp; yet had ſervants inow; as <hi>Ioſhua, David, Abraham, Cornelius, &amp;c.</hi>
+               </p>
+               <p>Reply. Thoſe times were better than theſe, and good ſervants were then more plentifull than now they are.</p>
+               <p>Anſwer. 1. Our forefathers vſed moe good meanes to make their ſer<g ref="char:EOLhyphen"/>vants Gods ſervants, whereby Gods bleſsing was more vpon them.</p>
+               <p n="2">2 The Lord is no reſpecter of per<g ref="char:EOLhyphen"/>ſons, times, or places: therefore let vs vſe ſuch meanes as they did, and we ſhall have as good ſervants as they had.</p>
+               <div type="proofs">
+                  <head>THE PROOFES.</head>
+                  <p n="a">
+                     <hi rend="sup">a</hi> 1. Cor. 6.4. <hi>Set vp them that are leaſt e<g ref="char:EOLhyphen"/>ſteemed in the Church: I ſpeake it to your ſhame.</hi>
+                  </p>
+                  <p n="b">
+                     <pb n="116" facs="tcp:150817:66"/>
+                     <hi rend="sup">b</hi> 1. Tim. 4.8. <hi>Godlineſſe is profitable for all things, and hath the promiſes of this life preſent, and of that which is to come.</hi> Mat 6 33. <hi>Firſt ſeeke the Kingdome of God, and his righteouſneſſe, and all theſe things ſhall be caſt vnto you.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:150817:66"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
